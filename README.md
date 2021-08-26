@@ -3,7 +3,7 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
 ## Group Members
 ### * Dane Vestal dvestal2012@gmail.com [GitHub](github.com/D1935827V)
-### * Brayden Basinger braydenbasinger@gmail.com [GitHub](https://github.com/BraydenBasinger)
+### * Brayden Basinger Braydenbasinger@outlook.com [GitHub](https://github.com/BraydenBasinger)
 ### * Nicholas Xue nxue2004@gmail.com [GitHub](https://github.com/ncrxue)
 ### * Calvin Chea
 
