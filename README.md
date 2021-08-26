@@ -1,7 +1,18 @@
 ## TBD [Spring Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Spring%20Portfolio%20Starter)
 Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
+## Group Members
+### * Dane Vestal dvestal2012@gmail.com [GitHub](github.com/D1935827V)
+### * Brayden Basinger braydenbasinger@gmail.com [GitHub](https://github.com/BraydenBasinger)
+### * Nicholas Xue nxue2004@gmail.com [GitHub](https://github.com/ncrxue)
+### * Calvin Chea
 
+## Journals
+### * [Dane & Nicholas](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing)
+### * [Calvin & Brayden](https://docs.google.com/document/d/1jjNDt_8c3gOlnA6uRstFvJm6lCJMMFduexonZ1bVOis/edit?usp=sharing)
+
+## Project Plan
+### * [DNHS class rewiew website](https://docs.google.com/document/d/1fDTN1DTGJrzje9FRy6E5Znsq2hrNt75o9eb6XqC-H7I/edit?usp=sharing)  
 
 ## Visual thoughts
 #### * Starter code should be fun and practical
