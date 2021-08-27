@@ -5,7 +5,7 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 ### * Dane Vestal dvestal2012@gmail.com [GitHub](github.com/D1935827V)
 ### * Brayden Basinger Braydenbasinger@outlook.com [GitHub](https://github.com/BraydenBasinger)
 ### * Nicholas Xue nxue2004@gmail.com [GitHub](https://github.com/ncrxue)
-### * Calvin Chea
+### * Calvin Chea calvin10424@gmail.com [GitHub](https://github.com/QwikSP)
 
 ## Journals
 ### * [Dane & Nicholas](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing)
