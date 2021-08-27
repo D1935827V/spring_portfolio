@@ -4,8 +4,21 @@
     <meta charset="UTF-8">
     <title>Abt Dane</title>
 </head>
-<body>
-<p>hello</p>
-<img src="images/Dane.jpg">
-</body>
+<body><div layout:fragment="content" th:remove="tag">
+    <!-- Start of body content specific to page -->
+    <div class="contact" style="height: 35vh;">
+        <div class="row justify-content-left" style="margin: 2%;">
+            <form action="/Dane" method="GET" id="greetForm">
+                <div>
+                    <label for="greetField">What's your name?</label>
+                    <input name="name" id="greetField">
+                    <button>Say Hi!</button>
+                    <p th:text="'Hello ' + ${name} + ' my name is Dane, nice to meet you.'"></p>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- End of body content specific to page -->
+    <img src="images/Dane.jpg">
+</div></body>
 </html>
