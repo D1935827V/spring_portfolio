@@ -12,7 +12,7 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 ### * [Calvin & Brayden](https://docs.google.com/document/d/1jjNDt_8c3gOlnA6uRstFvJm6lCJMMFduexonZ1bVOis/edit?usp=sharing)
 
 ## Project Plan
-### * [DNHS class rewiew website](https://docs.google.com/document/d/1fDTN1DTGJrzje9FRy6E5Znsq2hrNt75o9eb6XqC-H7I/edit?usp=sharing)  
+### * [DNHS class review website](https://docs.google.com/document/d/1fDTN1DTGJrzje9FRy6E5Znsq2hrNt75o9eb6XqC-H7I/edit?usp=sharing)  
 
 ## Project History
 ### * [Contribution History](https://github.com/D1935827V/spring_portfolio/commits/master/README.md)
