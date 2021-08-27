@@ -24,7 +24,7 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 #### * Show some practical and fun links (hrefs) like Twitter, Git, Youtube
 #### * Show student project specific links (hrefs) per page
 #### * Show student TPT ideas
-#### * Show student About me pages
+#### * Show student com.example.sping_portfolio.controllers.About me pages
 
 
 
