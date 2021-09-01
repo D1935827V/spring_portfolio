@@ -11,7 +11,7 @@ public class Brayden_Method {
     double averagegrade3andgrade4 = (grade3 + grade4)/2;
     double averageall = (averagegrade1andgrade2 + averagegrade3andgrade4 + grade5)/3;
     System.out.println("GP1 = " + averagegrade1andgrade2);
-    System.out.printlm("GP2 = " + averagegrade3andgrade4);
+    System.out.println("GP2 = " + averagegrade3andgrade4);
     System.out.println("grade 5 = " + grade5);
     System.out.println("Average of them all = "+ averageall);
 }
