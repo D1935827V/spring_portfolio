@@ -1,4 +1,4 @@
-package com.example.sping_portfolio.controllers;
+package com.example.sping_portfolio.Hackathon_1;
 
 public class calculateAverage {
     public static void main(String[] args) {
