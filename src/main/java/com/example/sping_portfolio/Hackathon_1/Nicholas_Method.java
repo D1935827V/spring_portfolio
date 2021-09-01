@@ -1,6 +1,6 @@
 package com.example.sping_portfolio.Hackathon_1;
 
-public class calculateAverage {
+public class Nicholas_Method {
     public static void main(String[] args) {
         double grade1 = 93;
         double grade2 = 88;
