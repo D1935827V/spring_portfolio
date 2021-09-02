@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
 <head>
-    <meta charset="UTF-8">
+    <div layout:fragment="metadata" th:remove="tag">
     <title>About Calvin</title>
+
+
+    <meta charset="UTF-8">
 <style>
     h1 {text-align: center;}
     p {text-align: center;}
@@ -13,12 +17,29 @@
         -o-transform: rotate(270deg);
         transform: rotate(270deg);
     }
+    img{
+        max-width: 25%;
+        max-height: 25%;
+        display: block; /* remove extra space below image */
+    }
+    .box{
+        width: 250px;
+        border: 5px solid black;
+    }
+    .box.large{
+        height: 300px;
+    }
+    .box.small {
+        height: 100px;
+    }
 </style>
-
+    </div>
 </head>
 <body>
+<div layout:fragment="content" th:remove="tag">
     <h1>Calvin Cheah</h1>
     <p>Hi! My name is Calvin, I'm one of the people on the team developing this project.</p>
-    <img src="images/Calvin_img.jpg" class="rotateimg270">
+    <img src="../images/Calvin_img.jpg" class="rotateimg270">
+</div>
 </body>
 </html>
