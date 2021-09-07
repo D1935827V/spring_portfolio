@@ -17,6 +17,9 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 ## Project History
 ### * [Contribution History](https://github.com/D1935827V/spring_portfolio/commits/master)
 
+## Scrum Board
+### * [https://github.com/D1935827V/spring_portfolio/projects/1](https://github.com/D1935827V/spring_portfolio/projects/1)
+
 ## Visual thoughts
 #### * Starter code should be fun and practical
 #### * Organize with Bootstrap menu 
