@@ -6,23 +6,43 @@
 
 <head><div layout:fragment="metadata" th:remove="tag">
     <title>CTC</title>
-</div></head>
+    <style> img{
+        max-width: 25%;
+        max-height: 25%;
+        display: block; /* remove extra space below image */
+    }
+    .box{
+        width: 250px;
+        border: 5px solid black;
+    }
+    .box.large{
+        height: 300px;
+    }
+    .box.small {
+        height: 100px;
+    }
+    </style>
+</div>
+</head>
 
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
-<body><div layout:fragment="content" th:remove="tag">
+<body>
+    <div layout:fragment="content" th:remove="tag">
     <!-- Start of body content specific to page -->
-    <div id="spring_intro" class="articles" style="margin: 30px;">
-        <h1><strong>Calvin the carry</strong></h1>
-        <h3><strong>What is Calvin the carry?</strong></h3>
-        <ol>
-            <li>Calvin the carry is a student lead group attempting to create a program that allows people to review classes at Del Norte</li>
-        </ol>
-        <h3><strong>Why Us?</strong></h3>
-        <ol>
-            <li>Sorry but we're just better</li>
-        </ol>
-    </div>
+        <div id="spring_intro" class="articles" style="margin: 30px;">
+          <h1><strong>Calvin the carry</strong></h1>
+           <h3><strong>What is Calvin the carry?</strong></h3>
+            <ol>
+               <li>Calvin the carry is a student lead group attempting to create a program that allows people to review classes at Del Norte</li>
+            </ol>
+           <h3><strong>Why Us?</strong></h3>
+         <ol>
+              <li>Sorry but we're just better</li>
+           </ol>
+           <img src="../images/CTC_V3_33.png">
+        </div>
     <!-- End of body content specific to page -->
-</div></body>
+    </div>
+</body>
 
 </html>
