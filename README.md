@@ -1,3 +1,33 @@
+## PBL 1-2 and Unit 2
+### Individual Scores:
+**Name** | **Score**
+| :---: | :---:
+**Brayden** | WIP
+**Calvin** | WIP
+**Dane** | WIP
+**Nicholas** | WIP |
+* [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1) with scores and issues ready for review
+### PBL (Team)
+* Scrum Board (Ideation / Design)
+  * Scrum Master. Define tasks and place assignments to in-progress on the Scrum board.
+  * Designer. Wire Frame (at least three theme pages, team mini-labs, and about)
+  * Technical Lead. Coordinate brain write session, after preliminary wire frames, make sure you capture technical complexities as an output of this exercise (input, saving data, comments, visual actions, animations, ...)
+* GitHub assets
+  * Navigators. Capture or build highlight of Ideation in README.md, this allows ideas to persist with Project,  Make sure that work from Developers works to expectations (testing, suggestions for improvement)
+  * Developers. Bootstrap drop downs in navbar, start to form Wire Frame menu options.  Each menu option should have a Stub code page
+  * Developers. Integration of Greet, Birds, Unit 1 functionality into a mini-lab page
+  * Designer/Developer. 1 minute video integrated into About Us on Genesis ideas for project.
+
+### PBL (Individual)
+WIP
+### Unit 2 (Individual)
+**Name** | **Unit 2 work**
+| :---: | :---:
+**Brayden** | [Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmFtKRJOONUePCbfD?e=AZ3R5u)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.jb7x00uldbjj) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.wniswmt2civo)
+**Dane** | [Test Corrections](https://docs.google.com/document/d/1LibJorOk7y_hXnPU18mun9P-bHbaHPAlE7vncwOQBg0/edit)
+**Nicholas** | WIP
+
 ## TBD [Spring Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Spring%20Portfolio%20Starter)
 Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
@@ -16,6 +46,9 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
 ## Project History
 ### * [Contribution History](https://github.com/D1935827V/spring_portfolio/commits/master)
+
+## Scrum Board
+### * [https://github.com/D1935827V/spring_portfolio/projects/1](https://github.com/D1935827V/spring_portfolio/projects/1)
 
 ## Visual thoughts
 #### * Starter code should be fun and practical
