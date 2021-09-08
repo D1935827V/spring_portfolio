@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<head><div layout:fragment="metadata" th:remove="tag">
+    <!-- Start of head content specific to page -->
+    <title>About Dane</title>
+    <!-- End of head content specific to page -->
+</div>
+    <title></title></head>
+
+<body><div layout:fragment="content" th:remove="tag">
+    <!-- Start of body content specific to page -->
+    <div class="contact" style="height: 35vh;">
+        <div class="row justify-content-left" style="margin: 2%;">
+            <form method="GET" id="calcForm">
+                <div>
+                    <label for="num1">First Number</label>
+                    <label for="num2">Second Number</label>
+                    <input name="num1" id="num1">
+                    <input name="num2" id="num2">
+                    <input type="submit" formaction="Calculator" value="Add">
+                    <p th:text="'Result is: ' + ${result}"></p>
+                    <p>I am learning to code in Mr. Mortensens class</p>
+                </div>
+            </form>
+        </div>
+    </div>
+    <img src="../images/Dane.jpg" alt="../images/image-not-found.png">
+    <!-- End of body content specific to page -->
+</div></body>
+</html>
