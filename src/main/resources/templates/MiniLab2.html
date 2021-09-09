@@ -11,7 +11,7 @@
 <!-- Hack 6: fix all warnings -->
 
 <!-- <head> -->
-<div layout:fragment="metadata" th:with="bits=8" th:remove="tag">
+<div layout:fragment="metadata" th:with="bits=${bits}" th:remove="tag">
     <title>Binary page</title>
     <script>
         const BITS = [[${bits}]];
@@ -109,10 +109,18 @@
 <!-- </head> -->
 
 <!-- <body> -->
-<div layout:fragment="content" th:with="bits=8" th:remove="tag">
+<div layout:fragment="content" th:with="bits=${bits}" th:remove="tag">
     <h1 class="text-center">Binary Math with Conversions</h1>
     <div class="container">
         <div class="row justify-content-md-center">
+
+            <form method="GET" id="bitsForm">
+                <div>
+                    <label for="bits"># of bits</label>
+                    <input name="bits" id="bits">
+                    <input type="submit" formaction="MiniLab2" value="Enter">
+                </div>
+            </form>
 
             <div class="col-8">
                 <table class="table">
