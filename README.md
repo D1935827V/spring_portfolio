@@ -2,10 +2,10 @@
 ### Individual Scores:
 **Name** | **Score**
 | :---: | :---:
-**Brayden** | WIP
-**Calvin** | WIP
-**Dane** | WIP
-**Nicholas** | WIP |
+**Brayden** | 5/5
+**Calvin** | 5/5
+**Dane** | 5/5
+**Nicholas** | 5/5 |
 * [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1) with scores and issues ready for review
 ### PBL (Team)
 * Scrum Board (Ideation / Design)
