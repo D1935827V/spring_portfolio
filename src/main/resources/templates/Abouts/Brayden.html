@@ -1,16 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Brayden About Me</title>
-</head>
-<body>
-<p>I am Brayden and I have no idea what im doing.</p>
-<p>I am an expert programmer in scratch.</p>
+<!DOCTYPE HTML>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
 
-<body>
-    <li><a href="https://github.com/BraydenBasinger">Github</a></li>
-    <img src="../images/BraydenCarry.jpg">
-</ul>
-</body>
+<head>
+    <div layout:fragment="metadata" th:remove="tag">
+        <title>About Brayedn</title>
+    <meta charset="UTF-8">
+    </div>
+</head>
+
+<body><div layout:fragment="content" th:remove="tag">
+    <div class="contact" style="height: 100vh;">
+        <div class="row justify-content-left" style="margin: 2%;">
+            <p>I am Brayden and I have no idea what I'm doing.</p>
+            <p>I am an expert programmer in scratch.</p>
+        </div>
+        <div class="row justify-content-left" style="margin: 2%;">
+            <p><a href="https://github.com/BraydenBasinger">My Github</a></p>
+        </div>
+        <div class="row justify-content-left" style="margin: 2%;">     
+        </div>
+            <p> <img src="../images/BraydenCarry.jpg" style="width:400px;height:522px" > </p>
+        </div>
+    </div>
+</div></body>
 </html>
