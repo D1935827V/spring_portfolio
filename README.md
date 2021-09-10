@@ -1,11 +1,24 @@
+## Pop Quiz Sep. 10, 2021
+### **CTC: BraydenBasinger, QwikSP, D1935827V, and ncrxue**
+### [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1)
+### **Pairs and Journals**
+#### [Dane & Nicholas](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing)
+#### [Calvin & Brayden](https://docs.google.com/document/d/1jjNDt_8c3gOlnA6uRstFvJm6lCJMMFduexonZ1bVOis/edit?usp=sharing)
+**Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
+| :---: | :---: | :--: | :--: | :--: | :--:
+**Brayden** | BraydenBasinger | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3ABraydenBasinger+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Abraydenbasinger) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=BraydenBasinger) | [Link](https://github.com/BraydenBasinger)
+**Calvin** | QwikSP | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AQwikSP+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=QwikSP) | [Link](https://github.com/QwikSP)
+**Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
+**Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
+
 ## PBL 1-2 and Unit 2
 ### Individual Scores:
 **Name** | **Score**
 | :---: | :---:
-**Brayden** | WIP
-**Calvin** | WIP
-**Dane** | WIP
-**Nicholas** | WIP |
+**Brayden** | 5/5
+**Calvin** | 5/5
+**Dane** | 5/5
+**Nicholas** | 5/5 |
 * [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1) with scores and issues ready for review
 ### PBL (Team)
 * Scrum Board (Ideation / Design)
