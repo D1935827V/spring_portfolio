@@ -1,4 +1,7 @@
 ## Pop Quiz Sep. 10, 2021
+### **Pairs and Journals**
+#### [Dane & Nicholas](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing)
+#### [Calvin & Brayden](https://docs.google.com/document/d/1jjNDt_8c3gOlnA6uRstFvJm6lCJMMFduexonZ1bVOis/edit?usp=sharing)
 **Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
 | :---: | :---: | :--: | :--: | :--: | :--:
 **Brayden** | BraydenBasinger | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3ABraydenBasinger+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Abraydenbasinger) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=BraydenBasinger) | [Link](https://github.com/BraydenBasinger)
