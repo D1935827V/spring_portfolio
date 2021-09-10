@@ -1,4 +1,6 @@
 ## Pop Quiz Sep. 10, 2021
+### **CTC: BraydenBasinger, QwikSP, D1935827V, and ncrxue**
+### [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1)
 ### **Pairs and Journals**
 #### [Dane & Nicholas](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing)
 #### [Calvin & Brayden](https://docs.google.com/document/d/1jjNDt_8c3gOlnA6uRstFvJm6lCJMMFduexonZ1bVOis/edit?usp=sharing)
