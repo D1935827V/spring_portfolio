@@ -1,11 +1,12 @@
 ## Prototype Check and Unit 3
-|**Issues**|**Contributors**|**Highlights**|
+### Issues ready for review
+|**Issue**|**Contributors**|**Highlights**|
 |:----:|:----:|:----:|
 |||
 |||
-|||
+|[Mini-Lab 2](https://github.com/D1935827V/spring_portfolio/issues/19)|Dane|Very impressive backend (Java) and frontend (HTML/Thymeleaf) design
 
-## PBL
+### PBL
 * Pair Design / HTML
   * a
   * m
