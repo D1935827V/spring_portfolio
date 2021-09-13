@@ -1,3 +1,20 @@
+## Prototype Check and Unit 3
+|**Issues**|**Contributors**|**Highlights**|
+|:----:|:----:|:----:|
+|||
+|||
+|||
+
+
+
+### Unit 3 Individual work
+**Name** | **Unit 3 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmF0i6iriNor4baJ5?e=e4AYCH)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.xh0dmjase913) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.if2dffapbal4)
+**Dane** | [Test Corrections](https://docs.google.com/document/d/1wDDWaogGtgy28O24lLOssde6ZkPGz-ClU0pRBPtQcyI/edit?usp=sharing)
+**Nicholas** | [Test Corrections](https://docs.google.com/document/d/1iMdQhtmUpmTNAdnPl6olhIAlj-7jhIGEk_LdJfdsMng/edit?usp=sharing)
+
 ## Pop Quiz Sep. 10, 2021
 ### **CTC: BraydenBasinger, QwikSP, D1935827V, and ncrxue**
 ### [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1)
@@ -11,7 +28,7 @@
 **Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
 
-## PBL 1-2 and Unit 2
+## PBL 1-2 and Unit 2 
 ### Individual Scores:
 **Name** | **Score**
 | :---: | :---:
