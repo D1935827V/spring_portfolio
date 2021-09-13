@@ -1,14 +1,14 @@
 package com.example.sping_portfolio.about;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
-@Controller  // HTTP requests are handled as a controller, using the @Controller annotation
+@Controller
 public class About_Nicholas {
     @GetMapping("Abouts/Nicholas")
-    // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
-    public String Nicholas() {
-        return "Abouts/Nicholas"; // returns HTML VIEW (greeting)
+    public String AboutNicholas() {
+        return "Abouts/Nicholas";
     }
 }
-

@@ -1,3 +1,73 @@
+## Prototype Check and Unit 3
+### Issues ready for review
+|**Issue**|**Contributors**|**Highlights**|
+|:----:|:----:|:----:|
+|||
+|||
+|[Mini-Lab 2](https://github.com/D1935827V/spring_portfolio/issues/19)|Dane|Very impressive backend (Java) and frontend (HTML/Thymeleaf) design
+
+### PBL
+* Pair Design / HTML
+  * a
+  * m
+* Pair Prototyping / Thymeleaf
+  * o
+  * g
+* Scrum Team management
+  * u
+  * s
+
+### Unit 3 Individual work
+**Name** | **Unit 3 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmF0i6iriNor4baJ5?e=e4AYCH)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.xh0dmjase913) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.if2dffapbal4)
+**Dane** | [Test Corrections](https://docs.google.com/document/d/1wDDWaogGtgy28O24lLOssde6ZkPGz-ClU0pRBPtQcyI/edit?usp=sharing)
+**Nicholas** | [Test Corrections](https://docs.google.com/document/d/1iMdQhtmUpmTNAdnPl6olhIAlj-7jhIGEk_LdJfdsMng/edit?usp=sharing)
+
+## Pop Quiz Sep. 10, 2021
+### **CTC: BraydenBasinger, QwikSP, D1935827V, and ncrxue**
+### [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1)
+### **Pairs and Journals**
+#### [Dane & Nicholas](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing)
+#### [Calvin & Brayden](https://docs.google.com/document/d/1jjNDt_8c3gOlnA6uRstFvJm6lCJMMFduexonZ1bVOis/edit?usp=sharing)
+**Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
+| :---: | :---: | :--: | :--: | :--: | :--:
+**Brayden** | BraydenBasinger | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3ABraydenBasinger+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Abraydenbasinger) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=BraydenBasinger) | [Link](https://github.com/BraydenBasinger)
+**Calvin** | QwikSP | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AQwikSP+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=QwikSP) | [Link](https://github.com/QwikSP)
+**Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
+**Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
+
+## PBL 1-2 and Unit 2 
+### Individual Scores:
+**Name** | **Score**
+| :---: | :---:
+**Brayden** | 5/5
+**Calvin** | 5/5
+**Dane** | 5/5
+**Nicholas** | 5/5 |
+* [Scrum Board](https://github.com/D1935827V/spring_portfolio/projects/1) with scores and issues ready for review
+### PBL (Team)
+* Scrum Board (Ideation / Design)
+  * Scrum Master. Define tasks and place assignments to in-progress on the Scrum board.
+  * Designer. Wire Frame (at least three theme pages, team mini-labs, and about)
+  * Technical Lead. Coordinate brain write session, after preliminary wire frames, make sure you capture technical complexities as an output of this exercise (input, saving data, comments, visual actions, animations, ...)
+* GitHub assets
+  * Navigators. Capture or build highlight of Ideation in README.md, this allows ideas to persist with Project,  Make sure that work from Developers works to expectations (testing, suggestions for improvement)
+  * Developers. Bootstrap drop downs in navbar, start to form Wire Frame menu options.  Each menu option should have a Stub code page
+  * Developers. Integration of Greet, Birds, Unit 1 functionality into a mini-lab page
+  * Designer/Developer. 1 minute video integrated into About Us on Genesis ideas for project.
+
+### PBL (Individual)
+WIP
+### Unit 2 (Individual)
+**Name** | **Unit 2 work**
+| :---: | :---:
+**Brayden** | [Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmFtKRJOONUePCbfD?e=AZ3R5u)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.jb7x00uldbjj) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.wniswmt2civo)
+**Dane** | [Test Corrections](https://docs.google.com/document/d/1LibJorOk7y_hXnPU18mun9P-bHbaHPAlE7vncwOQBg0/edit)
+**Nicholas** | WIP
+
 ## TBD [Spring Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Spring%20Portfolio%20Starter)
 Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
@@ -16,6 +86,9 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
 ## Project History
 ### * [Contribution History](https://github.com/D1935827V/spring_portfolio/commits/master)
+
+## Scrum Board
+### * [https://github.com/D1935827V/spring_portfolio/projects/1](https://github.com/D1935827V/spring_portfolio/projects/1)
 
 ## Visual thoughts
 #### * Starter code should be fun and practical
