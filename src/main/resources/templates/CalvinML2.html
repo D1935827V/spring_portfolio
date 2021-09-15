@@ -11,22 +11,23 @@
 <!-- Hack 6: fix all warnings -->
 
 <!-- <head> -->
-<div layout:fragment="metadata" th:with="bits=${bits}" th:remove="tag">
+<div layout:fragment="metadata" th:with="(bitz=${bitz}, change_img=${change_img})"  th:remove="tag">
     <title>Binary page</title>
     <script>
-        const BITS = [[${bits}]];
+        const BITS = [[${bitz}]];
         const MAX = 2 ** BITS - 1;
         const MSG_ON = "Turn on";
         const IMAGE_ON = "/images/bulb_on.gif";
         const MSG_OFF = "Turn off";
-        const IMAGE_OFF = "/images/bulb_off.png"
+        let IMAGE_OFF = [[${change_img}]];
+
         // return string with current value of each bit
         function getBits() {
-            let bits = "";
+            let bitz = "";
             for(let i = 0; i < BITS; i++) {
-                bits = bits + document.getElementById('digit' + i).value;
+                bitz = bitz + document.getElementById('digit' + i).value;
             }
-            return bits;
+            return bitz;
         }
         // setter for DOM values
         function setConversions(binary) {
@@ -104,23 +105,22 @@
             }
         }
     </script>
+
 </div>
 <!-- </head> -->
 
 <!-- <body> -->
-<div layout:fragment="content" th:with="bits=${bits}" th:remove="tag">
+<div layout:fragment="content" th:with="bitz=${bitz}" th:remove="tag">
     <h1 class="text-center">Binary Math with Conversions</h1>
     <div class="container">
         <div class="row justify-content-md-center">
-
             <form method="GET" id="bitsForm">
                 <div>
-                    <label for="bits"># of bits</label>
-                    <input name="bits" id="bits">
-                    <input type="submit" formaction="MiniLab2" value="Enter">
+                    <label for="bitz">How many bits?</label>
+                    <input name="bitz" id="bitz">
+                    <input type="submit" formaction="CalvinML2" value="Enter">
                 </div>
             </form>
-
             <div class="col-8">
                 <table class="table">
                     <tr id="table">
@@ -138,6 +138,8 @@
                         <td id="hexadecimal">0</td>
                         <td id="decimal">0</td>
                         <td><button type="button" id="sub1" onclick="add(-1)">-1</button></td>
+
+
                     </tr>
                 </table>
             </div>
@@ -146,7 +148,7 @@
                 <table class="table">
 
                     <tr>
-                        <th:block th:each="i: ${#numbers.sequence(0, bits-1)}">
+                        <th:block th:each="i: ${#numbers.sequence(0, bitz-1)}">
                             <td><img class="img-responsive py-3" th:id="'bulb' + ${i}" src="" th:src="@{'../images/bulb_off.png'}" alt="" width="40" height="Auto">
                                 <button type="button" th:id="'butt' + ${i}" th:onclick="'javascript:toggleBit(' + ${i} + ')'">Turn on</button>
                             </td>
@@ -154,10 +156,8 @@
                     </tr>
 
                     <tr>
-                        <th:block th:each="i: ${#numbers.sequence(0, bits-1)}">
-                            <td><label>
-                                <input type='text' th:id="'digit' + ${i}" Value="0" size="1" readonly>
-                            </label></td>
+                        <th:block th:each="i: ${#numbers.sequence(0, bitz-1)}">
+                            <td><input type='text' th:id="'digit' + ${i}" Value="0" size="1" readonly></td>
                         </th:block>
                     </tr>
 
