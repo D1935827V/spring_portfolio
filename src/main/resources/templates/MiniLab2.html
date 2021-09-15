@@ -147,7 +147,7 @@
 
                     <tr>
                         <th:block th:each="i: ${#numbers.sequence(0, bits-1)}">
-                            <td><img class="img-responsive py-3" th:id="'bulb' + ${i}" src="" th:src="@{'/images/bulb_off.png'}" alt="" width="40" height="Auto">
+                            <td><img class="img-responsive py-3" th:id="'bulb' + ${i}" src="" th:src="@{'../images/bulb_off.png'}" alt="" width="40" height="Auto">
                                 <button type="button" th:id="'butt' + ${i}" th:onclick="'javascript:toggleBit(' + ${i} + ')'">Turn on</button>
                             </td>
                         </th:block>
