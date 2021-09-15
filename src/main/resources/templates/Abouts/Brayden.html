@@ -9,10 +9,29 @@
     </div>
 </head>
 
-<body><div layout:fragment="content" th:remove="tag">
+<body>
+    <div>
+    <button onclick="typeWriter()">Click me</button>
+
+    <p id="demo"></p>
+
+    <script>
+        var i = 0;
+        var txt = 'I am Brayden and I have no idea what I am doing.';
+        var speed = 50;
+
+        function typeWriter() {
+            if (i < txt.length) {
+                document.getElementById("demo").innerHTML += txt.charAt(i);
+                i++;
+                setTimeout(typeWrit333443er, speed);
+            }
+        }
+    </script>
+    <div/>
+    <div layout:fragment="content" th:remove="tag">
     <div class="contact" style="height: 100vh;">
         <div class="row justify-content-left" style="margin: 2%;">
-            <p>I am Brayden and I have no idea what I'm doing.</p>
             <p>I am an expert programmer in scratch.</p>
         </div>
         <div class="row justify-content-left" style="margin: 2%;">
@@ -23,5 +42,6 @@
             <p> <img src="../images/BraydenCarry.jpg" style="width:700px;height:522px" > </p>
         </div>
     </div>
-</div></body>
+</div>
+</body>
 </html>
