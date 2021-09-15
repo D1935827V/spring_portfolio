@@ -20,7 +20,6 @@
         const IMAGE_ON = "/images/bulb_on.gif";
         const MSG_OFF = "Turn off";
         const IMAGE_OFF = "/images/bulb_off.png"
-
         // return string with current value of each bit
         function getBits() {
             let bits = "";
@@ -156,7 +155,9 @@
 
                     <tr>
                         <th:block th:each="i: ${#numbers.sequence(0, bits-1)}">
-                            <td><input type='text' th:id="'digit' + ${i}" Value="0" size="1" readonly></td>
+                            <td><label>
+                                <input type='text' th:id="'digit' + ${i}" Value="0" size="1" readonly>
+                            </label></td>
                         </th:block>
                     </tr>
 
