@@ -13,6 +13,16 @@
 <!-- <head> -->
 <div layout:fragment="metadata" th:with="bits=${bits}" th:remove="tag">
     <title>Binary page</title>
+    <style>
+        .box {
+            background-color:orange;
+            postion: obsolute;
+            height: 60%;
+            width: 60%;
+            left:20%;
+            top:20%;
+        }
+    </style>
     <script>
         const BITS = [[${bits}]];
         const MAX = 2 ** BITS - 1;
@@ -37,6 +47,8 @@
             document.getElementById('hexadecimal').innerHTML = parseInt(binary, 2).toString(16);
             // Decimal conversion
             document.getElementById('decimal').innerHTML = parseInt(binary, 2).toString();
+
+            document.getElementById('HexCT').style.backgroundColor = "#" + parseInt(binary, 2).toString(16).padStart(6, "0");
         }
         //
         function decimal_2_base(decimal, base) {
@@ -163,7 +175,9 @@
 
                 </table>
             </div>
-
+            <div class="box" id="HexCT">
+                <p>box</p>
+            </div>
         </div>
     </div>
 </div>
