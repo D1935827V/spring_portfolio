@@ -14,6 +14,21 @@ public class Binary {
     public String greeting(@RequestParam(name="bits", required=false, defaultValue="8") int bits, Model model) {
         // @RequestParam handles required and default values, name and model are class variables, model looking like JSON
         model.addAttribute("bits", bits); // MODEL is passed to html
-        return "MiniLab2"; // returns HTML VIEW (greeting)
+        String text = "";
+        String page = "MiniLab2";
+        if (bits == 8){
+            text = "8 bits is pretty baller";
+            page = "MiniLab2";
+        }
+        else if (bits == 9){
+            page = "God_Calvin";
+        }
+        else{
+            text = "";
+            page = "MiniLab2";
+        }
+        model.addAttribute("bits", bits);
+        model.addAttribute("text", text);
+        return page; // returns HTML VIEW (greeting)
     }
 }
