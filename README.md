@@ -1,7 +1,7 @@
 ## Prototype Sprint End and Unit 4
 ### Issues ready for review
-|**Issue**|**Contributors**|
-|:----:|:----:|:----:|
+|**Issue**|**Contributors**
+|:----:|:----:|
 |**[js tpewriter](https://github.com/D1935827V/spring_portfolio/issues/23)**|**Brayden**|
 |**[color step](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp)**|**Calvin**|
 |**[hack-at-thon](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nic**|
