@@ -1,3 +1,47 @@
+## Modeling Checkpoint plus Unit 5
+### Issues ready for review 
+|**Issue**|**Contributors**
+|:----:|:----:|
+|**[tbd](...)**|**Brayden**|
+|**[tbd](...)**|**Calvin**|
+|**[tbd](...)**|**Nic**|
+|**[tbd](...)**|**Dane**|
+
+
+### Requirements
+*Live Grading, individual.  RGB image work is focus is this lab.
+
+*Focus this week is on Modeling.   Mini-lab is the only assigned coding for the week, however, you could try to implement all these requirement in your PBL if you can find a fit.   Each person needs to complete all coding portions of this assignment, even if it is duplication, and then the individual should add to their solution to a PBL project or to their individual area.
+
+*I will be looking at solutions and a Technical Officer (or 2, 3) to present an "official solution" to class at the next TPT.  If you want to be be considered for presentation, please alert me on your solution the weekend before due date. *****
+
+*View/Frontend improvements 1 Pont
+*How would you provide Gray Scale for all the images?
+*How would you layout original pic, grayscale pic?  Do they sound like similar objects?
+*Since this is a lot of data, what would be good way to select images of your choice and show results in either original or gray?  My recommendation is to try a different approach to presentation.
+
+*Control improvements 1 Point
+*Is the lii setup being used a best practice?  Can you think of some improvements?  Do setup with 10 images.  IMO lii is an object that "has a" list of ii's as an within in it..
+*Should there be two GetMappings?  Try an object model that consolidates these two definitions.  Based off of UI, the language should be...
+
+*Model improvements 3 Points (is-a extends, has-a is a attribute)
+*The model throughout needs to be reworked from prototype, to something that is MORE Java like.  Modeling is THE KEY element to learning Java.  Please design and model the prototype to be more fully developed.
+*an list_of_image(s)_info object (lii) has-a list of images
+*an image_info object (ii) has-an image file, has-a list of image_property objects (contains original info, original info with watermark, grey, grey with watermark, etc)
+*an image_property object (iprop) has-a description, has-a base64 rendering file, has-a list of RGB attributes
+*an image_property_rgb (iprgb) object has-a has a list of RGB attributes in decimal, hexadecimal, and binary
+*RGB attributes is-an array of 3 or 4 attributes, Hexadecimal is-a list and Binary is-an array of 3 or 4 attributes as well.
+*What is base64?  Can you name some benefits of using this versus a file in coding?  This prototype for base64 implementation only supports PNG.  How would you support JPEG?  Please implement and try with different Image types.
+
+### Unit 5 Individual work
+**Name** | **Unit 5 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmQlptHuANDcJi_sB?e=5gaMUy)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
+**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit) |
+**Nicholas** | [Notes & Test Corrections](tbd)
+
+
 ## Prototype Sprint End and Unit 4
 ### Issues ready for review (Prototypes/hack-a-thon)
 |**Issue**|**Contributors**
