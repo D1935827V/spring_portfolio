@@ -11,9 +11,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
 public class Binary {
     @GetMapping("/MiniLab2")    // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
-    public String greeting(@RequestParam(name="bits", required=false, defaultValue="8") int bits, Model model) {
+    public String greeting(@RequestParam(name="bits", required=false, defaultValue="8" ) int bits, @RequestParam(name="rand", required=false, defaultValue="0") int rand, Model model) {
         // @RequestParam handles required and default values, name and model are class variables, model looking like JSON
         model.addAttribute("bits", bits); // MODEL is passed to html
+        model.addAttribute("rand", rand); // MODEL is passed to html
         String text = "";
         String page = "MiniLab2";
         if (bits == 8){
@@ -26,9 +27,12 @@ public class Binary {
         else{
             text = "";
             page = "MiniLab2";
+            bits = (int) Math.floor(Math.random() * 10);
         }
+
         model.addAttribute("bits", bits);
         model.addAttribute("text", text);
+        model.addAttribute("rand", rand);
         return page; // returns HTML VIEW (greeting)
     }
 }
