@@ -2,7 +2,7 @@
 ### Issues ready for review
 |**Issue**|**Contributors**|**Highlights**|
 |:----:|:----:|:----:|
-|**Brayden**|[link to issue] (https://github.com/D1935827V/spring_portfolio/issues/23)|
+|**(https://github.com/D1935827V/spring_portfolio/issues/23)**|**brayden** |
 |||
 |||
 
