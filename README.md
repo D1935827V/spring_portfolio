@@ -1,11 +1,11 @@
 ## Modeling Checkpoint plus Unit 5
 ### Issues ready for review 
-|**Issue**|**Contributors**
-|:----:|:----:|
-|**[tbd](...)**|**Brayden**|
-|**[tbd](...)**|**Calvin**|
-|**[tbd](...)**|**Nic**|
-|**[tbd](...)**|**Dane**|
+|**Issue**|**Contributors**|**Description of Issue**|
+|:----:|:----:|:----:|
+|**[tbd](...)**|**Brayden**|**...**|
+|**[tbd](...)**|**Calvin**|**...**|
+|**[tbd](...)**|**Nicolas**|**...**|
+|**[tbd](...)**|**Dane**|**...**|
 
 
 ### Requirements
