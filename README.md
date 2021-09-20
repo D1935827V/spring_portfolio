@@ -1,3 +1,26 @@
+## Prototype Sprint End and Unit 4
+### Issues ready for review
+|**Issue**|**Contributors**|**Highlights**|
+|:----:|:----:|:----:|
+|||
+|||
+|||
+
+### PBL
+* Scrum Master.  Continue planning best practice, be prepared for review during class on Wednesday, for points.
+* Developers.  Ensure each person has Prototype and/or TT3 hack coding task.  TT3 Binary Math must be included in project with all "Hack" suggestions.  Duplicating a Hack task for multiple individuals and integrating into their personal page(s), would be wise for someone who is behind on code commits. 
+* Designer.  Ensure there is a Design or Research asset for prototyping work.
+* Navigator/Tester.  Build a video showing design and runtime of prototype(s).
+* Groomers/Developers.  Groom Scrum Board before delivery, moving Issues to Review, and including Tangible Assets. Time boxed README entries that point to Issues!
+
+### Unit 3 Individual work
+**Name** | **Unit 4 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmQlptHuANDcJi_sB?e=5gaMUy)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.rp71ud48dpyt) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.43er9rbgdt0m)
+**Dane** | N/a
+**Nicholas** | [Test Corrections](https://docs.google.com/document/d/1iMdQhtmUpmTNAdnPl6olhIAlj-7jhIGEk_LdJfdsMng/edit?usp=sharing)
+
 ## Prototype Check and Unit 3
 ### Issues ready for review
 |**Issue**|**Contributors**|**Highlights**|
