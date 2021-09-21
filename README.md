@@ -49,7 +49,7 @@
 |**[js typewriter](https://github.com/D1935827V/spring_portfolio/issues/23)**|**Brayden**|
 |**[color step](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp)**|**Calvin**|
 |**[hack-a-thon](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nic**|
-|**[N/A](https://www.youtube.com/watch?v=DmInwHOt8cY)**|**Dane**|
+|**[Mini Lab 2 Hack 5](https://github.com/D1935827V/spring_portfolio/issues/31)**|**Dane**|
 
 
 ### PBL
