@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+</style>
+<head>
+    <div layout:fragment="metadata" th:remove="tag">
+        <title>Project Rev</title>
+        <meta charset="UTF-8">
+        <h1>Rev</h1>
+    </div>
+
+</head>
+<script>
+    String all_reviews = "";
+</script>
+<body>
+<div layout:fragment="content" th:remove="tag">
+    <div class="contact" style="height: 100vh;">
+        <h1>Rev</h1>
+        <form method="/Project" id="Project">
+            <label for="review">Write a Review!</label>
+            <input name="review" id="review">
+            <button>Submit</button>
+            <p th:text="'What Other people have said...' + ${all_reviews}"></p>
+        </form>
+
+</div>
+</div>
+<p>Classes</p>
+</body>
+</html>

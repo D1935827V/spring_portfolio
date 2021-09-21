@@ -1,3 +1,72 @@
+## Modeling Checkpoint plus Unit 5
+### Issues ready for review 
+|**Issue**|**Contributors**|**Description of Issue**|
+|:----:|:----:|:----:|
+|**[tbd](...)**|**Brayden**|**...**|
+|**[tbd](...)**|**Calvin**|**...**|
+|**[tbd](...)**|**Nicolas**|**...**|
+|**[tbd](...)**|**Dane**|**...**|
+
+
+### Requirements
+*Live Grading, individual.  RGB image work is focus is this lab.
+
+*Focus this week is on Modeling.   Mini-lab is the only assigned coding for the week, however, you could try to implement all these requirement in your PBL if you can find a fit.   Each person needs to complete all coding portions of this assignment, even if it is duplication, and then the individual should add to their solution to a PBL project or to their individual area.
+
+*I will be looking at solutions and a Technical Officer (or 2, 3) to present an "official solution" to class at the next TPT.  If you want to be be considered for presentation, please alert me on your solution the weekend before due date. *****
+
+*View/Frontend improvements 1 Pont
+*How would you provide Gray Scale for all the images?
+*How would you layout original pic, grayscale pic?  Do they sound like similar objects?
+*Since this is a lot of data, what would be good way to select images of your choice and show results in either original or gray?  My recommendation is to try a different approach to presentation.
+
+*Control improvements 1 Point
+*Is the lii setup being used a best practice?  Can you think of some improvements?  Do setup with 10 images.  IMO lii is an object that "has a" list of ii's as an within in it..
+*Should there be two GetMappings?  Try an object model that consolidates these two definitions.  Based off of UI, the language should be...
+
+*Model improvements 3 Points (is-a extends, has-a is a attribute)
+*The model throughout needs to be reworked from prototype, to something that is MORE Java like.  Modeling is THE KEY element to learning Java.  Please design and model the prototype to be more fully developed.
+*an list_of_image(s)_info object (lii) has-a list of images
+*an image_info object (ii) has-an image file, has-a list of image_property objects (contains original info, original info with watermark, grey, grey with watermark, etc)
+*an image_property object (iprop) has-a description, has-a base64 rendering file, has-a list of RGB attributes
+*an image_property_rgb (iprgb) object has-a has a list of RGB attributes in decimal, hexadecimal, and binary
+*RGB attributes is-an array of 3 or 4 attributes, Hexadecimal is-a list and Binary is-an array of 3 or 4 attributes as well.
+*What is base64?  Can you name some benefits of using this versus a file in coding?  This prototype for base64 implementation only supports PNG.  How would you support JPEG?  Please implement and try with different Image types.
+
+### Unit 5 Individual work
+**Name** | **Unit 5 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
+**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit) |
+**Nicholas** | [Notes & Test Corrections](https://docs.google.com/document/d/1_nhZzQsfAE4UqJE7etYgw4OfscY9MkEN9iuDb0Cz-io/edit?usp=sharing)
+
+
+## Prototype Sprint End and Unit 4
+### Issues ready for review (Prototypes/hack-a-thon)
+|**Issue**|**Contributors**
+|:----:|:----:|
+|**[js typewriter](https://github.com/D1935827V/spring_portfolio/issues/23)**|**Brayden**|
+|**[color step](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp)**|**Calvin**|
+|**[hack-a-thon](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nic**|
+|**[Mini Lab 2 Hack 5](https://github.com/D1935827V/spring_portfolio/issues/31)**|**Dane**|
+
+
+### PBL
+* Scrum Master.  Continue planning best practice, be prepared for review during class on Wednesday, for points.
+* Developers.  Ensure each person has Prototype and/or TT3 hack coding task.  TT3 Binary Math must be included in project with all "Hack" suggestions.  Duplicating a Hack task for multiple individuals and integrating into their personal page(s), would be wise for someone who is behind on code commits. 
+* Designer.  Ensure there is a Design or Research asset for prototyping work.
+* Navigator/Tester.  Build a video showing design and runtime of prototype(s).
+* Groomers/Developers.  Groom Scrum Board before delivery, moving Issues to Review, and including Tangible Assets. Time boxed README entries that point to Issues!
+
+### Unit 4 Individual work
+**Name** | **Unit 4 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.rp71ud48dpyt) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.43er9rbgdt0m)
+**Dane** | [Test Corrections](https://docs.google.com/document/d/1zvMCBNtMw2e5imPMj0-7PCKh--ZfCrwLXKYyKx5LMfY/edit?usp=sharing)
+**Nicholas** | [Test Corrections](https://docs.google.com/document/d/1iMdQhtmUpmTNAdnPl6olhIAlj-7jhIGEk_LdJfdsMng/edit?usp=sharing)
+
 ## Prototype Check and Unit 3
 ### Issues ready for review
 |**Issue**|**Contributors**|**Highlights**|
@@ -20,7 +89,7 @@
 ### Unit 3 Individual work
 **Name** | **Unit 3 work**
 | :---: | :---:
-**Brayden** | [Notes & Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmF0i6iriNor4baJ5?e=e4AYCH)
+**Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
 **Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.xh0dmjase913) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.if2dffapbal4)
 **Dane** | [Test Corrections](https://docs.google.com/document/d/1wDDWaogGtgy28O24lLOssde6ZkPGz-ClU0pRBPtQcyI/edit?usp=sharing)
 **Nicholas** | [Test Corrections](https://docs.google.com/document/d/1iMdQhtmUpmTNAdnPl6olhIAlj-7jhIGEk_LdJfdsMng/edit?usp=sharing)
@@ -63,7 +132,7 @@ WIP
 ### Unit 2 (Individual)
 **Name** | **Unit 2 work**
 | :---: | :---:
-**Brayden** | [Test Corrections](https://1drv.ms/w/s!AuWaorfPce_nmFtKRJOONUePCbfD?e=AZ3R5u)
+**Brayden** | [Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
 **Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.jb7x00uldbjj) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.wniswmt2civo)
 **Dane** | [Test Corrections](https://docs.google.com/document/d/1LibJorOk7y_hXnPU18mun9P-bHbaHPAlE7vncwOQBg0/edit)
 **Nicholas** | WIP

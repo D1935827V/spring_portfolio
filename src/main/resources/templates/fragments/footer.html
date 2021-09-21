@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    ...
 </head>
+
 <body>
     <!-- Begin contact info fragment  -->
     <div th:fragment="footer">
@@ -13,17 +13,41 @@
             </div>
             <!-- email jump -->
             <div class="row justify-content-center">
-                <h4><a href="https://www.youtube.com/watch?v=TB3AXnNWw9U">ctc@gmail.com</a></h4>
+                <h4><a href="nathanielc.com">ctc@gmail.com</a></h4>
             </div>
 
             <!-- social media jumps -->
             <div class="row justify-content-center">
                 <a href=https://github.com/D1935827V/spring_portfolio target="_blank"><i class="fa fa-github"></i></a>
                 <a href=https://www.instagram.com/dane.vestal/ target="_blank"><i class="fa fa-instagram"></i></a>
-                <a href=https://www.youtube.com/watch?v=DmInwHOt8cY target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a href=https://www.linkedin.com/ target="_blank"><i class="fa fa-linkedin"></i></a>
+                <br>
+                <br>
+                <br>
+                <br>
+            </div>
+            <div class="row justify-content-center">
+
+                <button onclick="typeWriter()">Our Past Scrum Names</button>
+                <script>
+                    let i = 0;
+                    let txt = 'Harry the Carry, Harry and the Hoe, Calvin the Carry, Dane you are wet!';
+                    let speed = 50;
+
+                    function typeWriter() {
+                        if (i < txt.length) {
+                            document.getElementById("demo").innerHTML += txt.charAt(i);
+                            i++;
+                            setTimeout(typeWriter, speed);
+                        }
+                    }
+                </script>
+                <p id="demo"></p>
             </div>
         </div>
+ >
     </div>
+
     <!-- End contact info fragment  -->
 </body>
 </html>
