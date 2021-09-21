@@ -1,0 +1,23 @@
+package com.example.sping_portfolio.controllers;
+/* MVC code that shows defining a simple Model, calling View, and this file serving as Controller
+ * Web Content with Spring MVCSpring Example: https://spring.io/guides/gs/serving-web-con
+ */
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+@Controller  // HTTP requests are handled as a controller, using the @Controller annotation
+public class MiniLab4 {
+    @GetMapping("/MiniLab4")    // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
+    public String greeting(@RequestParam(name="number", required=false, defaultValue="0") int number, Model model) {
+        // @RequestParam handles required and default values, name and model are class variables, model looking like JSON
+        long factorial = 1;
+        for (int i = 2; i <= number; i++) {
+            factorial = factorial * i;
+        }
+        model.addAttribute("factorial", factorial); // MODEL is passed to html
+        return "MiniLab4"; // returns HTML VIEW (greeting)
+    }
+}
