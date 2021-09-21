@@ -49,7 +49,7 @@
 |**[js typewriter](https://github.com/D1935827V/spring_portfolio/issues/23)**|**Brayden**|
 |**[color step](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp)**|**Calvin**|
 |**[hack-a-thon](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nic**|
-|**[N/A](https://www.youtube.com/watch?v=DmInwHOt8cY)**|**Dane**|
+|**[Mini Lab 2 Hack 5](https://github.com/D1935827V/spring_portfolio/issues/31)**|**Dane**|
 
 
 ### PBL
@@ -64,7 +64,7 @@
 | :---: | :---:
 **Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
 **Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.rp71ud48dpyt) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.43er9rbgdt0m)
-**Dane** | N/A
+**Dane** | [Test Corrections](https://docs.google.com/document/d/1zvMCBNtMw2e5imPMj0-7PCKh--ZfCrwLXKYyKx5LMfY/edit?usp=sharing)
 **Nicholas** | [Test Corrections](https://docs.google.com/document/d/1iMdQhtmUpmTNAdnPl6olhIAlj-7jhIGEk_LdJfdsMng/edit?usp=sharing)
 
 ## Prototype Check and Unit 3
