@@ -1,8 +1,13 @@
 package com.example.sping_portfolio.Palindrome;
 
+import java.util.Locale;
+import java.util.Scanner;
+
 public class Palindrome {
     static boolean isPalindrome(String str)
     {
+        str = str.replaceAll("\\s", "");
+        str = str.toLowerCase(Locale.ROOT);
         int i = 0, j = str.length() - 1;
 
         while (i < j) {
@@ -16,11 +21,15 @@ public class Palindrome {
 
     public static void main(String[] args)
     {
-        String str = "neveroddoreven";
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter a phrase: ");
 
+        String str = input.nextLine();
+
+        //Test phrase: A man a plan a canal Panama
         if (isPalindrome(str))
-            System.out.print("Yes");
+            System.out.print("The phrase is a palindrome.");
         else
-            System.out.print("No");
+            System.out.print("The phrase is not a palindrome.");
     }
 }
