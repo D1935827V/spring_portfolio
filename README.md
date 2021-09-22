@@ -2,7 +2,7 @@
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[greyscale](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|**greyscale images in slideshow on aboutme page **|
+|**[greyscale](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|greyscale images in slideshow on aboutme page|
 |**[tbd](...)**|**Calvin**|**...**|
 |**[tbd](...)**|**Nicolas**|**...**|
 |**[tbd](...)**|**Dane**|**...**|
