@@ -2,10 +2,8 @@
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[grayscale](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|greyscale images in slideshow on aboutme page|
+|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|doing what dane is doing, but better|
 |**[tbd](...)**|**Calvin**|**...**|
-|**[tbd](...)**|**Nicholas**|**...**|
-|**[tbd](...)**|**Dane**|**...**|
 |**[Mini-Lab 4](https://github.com/D1935827V/spring_portfolio/issues/35)**|**Dane**|Calculate Factorial and geometric sequence|
 |**[Palindrome](https://github.com/D1935827V/spring_portfolio/issues/33)**|**Nicholas**|Add palindrome checker to About Me page|
 
