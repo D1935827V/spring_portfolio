@@ -5,7 +5,7 @@
 |**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|doing what dane is doing, but better|
 |**[tbd](...)**|**Calvin**|**...**|
 |**[Mini-Lab 4](https://github.com/D1935827V/spring_portfolio/issues/35)**|**Dane**|Calculate Factorial and geometric sequence|
-|**[Palindrome](https://github.com/D1935827V/spring_portfolio/issues/33)**|**Nicholas**|Add palindrome checker to About Me page|
+|**[Palindrome](https://github.com/D1935827V/spring_portfolio/issues/33)**|**Nicholas**|Add palindrome checker to About Me page, Spring MVC|
 
 
 ### Requirements
