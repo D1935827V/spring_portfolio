@@ -8,6 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import static java.lang.Math.pow;
+import static com.example.sping_portfolio.controllers.recursive.sum;
 
 
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
@@ -22,8 +23,12 @@ public class MiniLab4 {
         long geometric = 1;
         geometric = (long) pow(2, (number-1));
 
+        int recursive_geometric = recursive.sum(number);
+
         model.addAttribute("factorial", factorial); // MODEL is passed to html
         model.addAttribute("geometric", geometric); // MODEL is passed to html
+        model.addAttribute("recursive_geometric", recursive_geometric); // MODEL is passed to html
+
         return "MiniLab4"; // returns HTML VIEW (greeting)
     }
 }
