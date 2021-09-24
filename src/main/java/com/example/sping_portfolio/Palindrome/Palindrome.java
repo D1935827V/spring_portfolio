@@ -1,10 +1,11 @@
 package com.example.sping_portfolio.Palindrome;
 
 import java.util.Locale;
-import java.util.Scanner;
+
+//Test phrase: A man a plan a canal Panama
 
 public class Palindrome {
-    static boolean isPalindrome(String str)
+    public static String isPalindrome(String str)
     {
         str = str.replaceAll("\\s", "");
         str = str.toLowerCase(Locale.ROOT);
@@ -12,24 +13,10 @@ public class Palindrome {
 
         while (i < j) {
             if (str.charAt(i) != str.charAt(j))
-                return false;
+                return "The phrase is not a palindrome.";
             i++;
             j--;
         }
-        return true;
-    }
-
-    public static void main(String[] args)
-    {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter a phrase: ");
-
-        String str = input.nextLine();
-
-        //Test phrase: A man a plan a canal Panama
-        if (isPalindrome(str))
-            System.out.print("The phrase is a palindrome.");
-        else
-            System.out.print("The phrase is not a palindrome.");
+        return "The phrase is a palindrome";
     }
 }

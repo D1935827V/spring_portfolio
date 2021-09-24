@@ -2,10 +2,10 @@
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[grayscale](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|greyscale images in slideshow on aboutme page|
+|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|doing what dane is doing, but better|
 |**[tbd](...)**|**Calvin**|**...**|
-|**[tbd](...)**|**Nicolas**|**...**|
-|**[tbd](...)**|**Dane**|**...**|
+|**[Mini-Lab 4](https://github.com/D1935827V/spring_portfolio/issues/35)**|**Dane**|Calculate Factorial and geometric sequence|
+|**[Palindrome](https://github.com/D1935827V/spring_portfolio/issues/33)**|**Nicholas**|Add palindrome checker to About Me page, Spring MVC|
 
 
 ### Requirements
@@ -13,7 +13,7 @@
 
 *Focus this week is on Modeling.   Mini-lab is the only assigned coding for the week, however, you could try to implement all these requirement in your PBL if you can find a fit.   Each person needs to complete all coding portions of this assignment, even if it is duplication, and then the individual should add to their solution to a PBL project or to their individual area.
 
-*I will be looking at solutions and a Technical Officer (or 2, 3) to present an "official solution" to class at the next TPT.  If you want to be be considered for presentation, please alert me on your solution the weekend before due date. *****
+*I will be looking at solutions and a Technical Officer (or 2, 3) to present an "official solution" to class at the next TPT.  If you want to be be considered for presentation, please alert me on your solution the weekend before due date.
 
 *View/Frontend improvements 1 Pont
 *How would you provide Gray Scale for all the images?
