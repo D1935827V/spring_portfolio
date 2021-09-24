@@ -21,13 +21,17 @@ public class MiniLab4 {
             factorial = factorial * i;
         }
         long geometric = 1;
-        geometric = (long) pow(2, (number-1));
+        geometric = (long) pow(2, (number));
 
         int recursive_geometric = recursive.sum(number);
+        int for_geometric = For.geometric(number);
+
 
         model.addAttribute("factorial", factorial); // MODEL is passed to html
         model.addAttribute("geometric", geometric); // MODEL is passed to html
         model.addAttribute("recursive_geometric", recursive_geometric); // MODEL is passed to html
+        model.addAttribute("for_geometric", for_geometric); // MODEL is passed to html
+
 
         return "MiniLab4"; // returns HTML VIEW (greeting)
     }

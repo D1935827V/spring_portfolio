@@ -2,7 +2,7 @@ package com.example.sping_portfolio.controllers;
 
 public class recursive {
     public static void main(String[] args) {
-        int result = sum(4);
+        int result = sum(10);
         System.out.println(result);
     }
     public static int sum(int k) {
