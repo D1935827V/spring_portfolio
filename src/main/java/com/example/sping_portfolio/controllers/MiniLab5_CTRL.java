@@ -1,18 +1,18 @@
 package com.example.sping_portfolio.controllers;
 
+import com.example.sping_portfolio.Image.ImageInfo;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import com.example.sping_portfolio.Image.ImageInfo;
 
 import java.util.ArrayList;
 import java.util.List;
 
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
-public class Image {
-    @GetMapping("/image")
+public class MiniLab5_CTRL {
+    @GetMapping("/MiniLab3_Calvin")
     public String image(Model model) {
-        String web_server = "http://localhost:8080/";
+        String web_server = "http://localhost:8080";
         List<ImageInfo> lii = new ArrayList<>();
 
         String file0 = "/images/Mona_Lisa.png";
@@ -28,12 +28,12 @@ public class Image {
         lii.get(2).read_image();
 
         model.addAttribute("lii", lii);
-        return "/image";
+        return "MiniLab5";
     }
 
-    @GetMapping("/image/grayscale")
+    @GetMapping("/image_grayscale")
     public String image_grayscale(Model model) {
-        String web_server = "http://localhost:8080/";
+        String web_server = "http://localhost:8080";
         List<ImageInfo> lii = new ArrayList<>();
 
         String file0 = "/images/Mona_Lisa.png";
@@ -41,6 +41,6 @@ public class Image {
         String str = lii.get(0).grayscale();
 //        String str = lii.get(0).grayscale();
         model.addAttribute("str", str);
-        return "/image_grayscale";
+        return "image_grayscale";
     }
 }

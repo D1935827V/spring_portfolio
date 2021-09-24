@@ -17,8 +17,12 @@
                 <div>
                     <label for="greetField">What's your number?</label>
                     <input name="number" id="greetField">
-                    <input type="submit" formaction="MiniLab4" value="Say Hi">
-                    <p th:text="${factorial}"></p></div>
+                    <input type="submit" formaction="MiniLab4" value="Go">
+                    <p>Factorial</p>
+                    <p th:text="${factorial}"></p>
+                    <p>Geometric sequence, f(n) = f(n-1)*2, f(1) = 1:</p>
+                    <p th:text="${geometric}"></p>
+                </div>
             </form>
         </div>
     </div>

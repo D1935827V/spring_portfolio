@@ -7,6 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import static java.lang.Math.pow;
+
 
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
 public class MiniLab4 {
@@ -17,7 +19,11 @@ public class MiniLab4 {
         for (int i = 2; i <= number; i++) {
             factorial = factorial * i;
         }
+        long geometric = 1;
+        geometric = (long) pow(2, (number-1));
+
         model.addAttribute("factorial", factorial); // MODEL is passed to html
+        model.addAttribute("geometric", geometric); // MODEL is passed to html
         return "MiniLab4"; // returns HTML VIEW (greeting)
     }
 }

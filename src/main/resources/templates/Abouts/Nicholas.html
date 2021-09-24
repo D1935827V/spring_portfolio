@@ -9,20 +9,31 @@
     </div>
 </head>
 
-<body><div layout:fragment="content" th:remove="tag">
-    <div class="contact" style="height: 100vh;">
-        <div class="row justify-content-left" style="margin: 2%;">
-            <p>Hi, I'm Nicholas. I'm an amateur programmer, and I'm familiar with C, Python, and JavaScript.</p>
-        </div>
-        <div class="row justify-content-left" style="margin: 2%;">
-            <p><a href="https://github.com/ncrxue">My Github</a></p>
-        </div>
-        <div class="row justify-content-left" style="margin: 2%;">     
-        </div>
-        <div>
-        </div>>
-            <p> <img src="../images/1509798804423.jpg" style="width:400px;height:522px" alt="Kernighan book"> </p>
+<body>
+    <div layout:fragment="content" th:remove="tag">
+        <div class="contact" style="height: 100vh;">
+            <div class="row justify-content-left" style="margin: 2%;">
+                <p>Hi, I'm Nicholas. I'm an amateur programmer, and I'm familiar with C, Python, and JavaScript.</p>
+            </div>
+            <div class="row justify-content-left" style="margin: 2%;">
+                <p><a href="https://github.com/ncrxue">My Github</a></p>
+            </div>
+            <div class="row justify-content-left" style="margin: 2%;">
+                <form id="paliForm" action="/Abouts/Nicholas" method="GET">
+                    <label for="phrase">Type a phrase to be tested as a palindrome</label>
+                    <input name="phrase" id="phrase" th:value="${phrase}" >
+                    <input type="submit" formaction="/Abouts/Nicholas" value="Go!">
+                </form>
+            </div>
+            <div class="row justify-content-left" style="margin: 2%;">
+                <p th:each="line: ${log1}" th:text="${line}"></p>
+            </div>
+            <div class="row justify-content-left" style="margin: 2%;">
+            </div>
+            <div class="row justify-content-left" style="margin: 2%;">
+                <p> <img src="../images/1509798804423.jpg" style="width:400px;height:522px" alt="Kernighan book"> </p>
+            </div>
         </div>
     </div>
-</div></body>
+</body>
 </html>
