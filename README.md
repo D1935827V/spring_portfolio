@@ -3,7 +3,7 @@
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
 |**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|doing what dane is doing, but better|
-|**[MiniLab5: greyscale](...)**|**Calvin**|Implemented greyscale, currrent issue is with implementing greyscale for multiple imgs. Droped MiniLab 5 after switch to algo extend lab, now constructing algorithim extend lab|
+|**[MiniLab5: greyscale](...)**|**Calvin**|Implemented greyscale, currrent issue is with implementing greyscale for multiple imgs. Dropped MiniLab 5 after switch to algo extend lab, now constructing algorithim extend lab|
 |**[Mini-Lab 4](https://github.com/D1935827V/spring_portfolio/issues/35)**|**Dane**|Calculate Factorial and geometric sequence|
 |**[Palindrome](https://github.com/D1935827V/spring_portfolio/issues/33)**|**Nicholas**|Add palindrome checker to About Me page, Spring MVC|
 
