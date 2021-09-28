@@ -5,7 +5,7 @@
 |**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|...|
 |**[tbd](...)**|**Calvin**|...|
 |**[tbd]()**|**Dane**|...|
-|**[tbd]()**|**Nicholas**|A...|
+|**[tbd]()**|**Nicholas**|...|
 
 5 points.  Based on TPT 5 and Tech Talk 5.   Each individual will take an algorithm and implement it 4 different ways.   Similar to Fibonacci (Links to an external site.) that was shared in class.  
 
