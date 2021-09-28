@@ -46,7 +46,7 @@ Getters and setters for git attributes
 | :---: | :---:
 **Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
 **Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
-**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1LV5mw3MSyjMXGEQC43SOFoV_y27-q15ogTxn-JOxU0U/edit?usp=sharing) |
+**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
 **Nicholas** | [Notes](https://docs.google.com/document/d/1_nhZzQsfAE4UqJE7etYgw4OfscY9MkEN9iuDb0Cz-io/edit?usp=sharing)
 
 
