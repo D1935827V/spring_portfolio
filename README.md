@@ -1,11 +1,11 @@
 ## Algorithm Extend Lab plus Unit 6
 ### Issues ready for review 
-|**Issue**|**Contributors**|**Description of Issue**|
-|:----:|:----:|:----:|
-|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|...|
-|**[tbd](...)**|**Calvin**|...|
-|**[tbd]()**|**Dane**|...|
-|**[tbd]()**|**Nicholas**|...|
+|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
+|:----:|:----:|:----:|:----:|
+|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|...|**[link here](tbd)**|
+|**[tbd](...)**|**Calvin**|...|**[link here](tbd)**|
+|**[tbd]()**|**Dane**|...|**[link here](tbd)**|
+|**[tbd]()**|**Nicholas**|...|**[link here](tbd)**|
 
 5 points.  Based on TPT 5 and Tech Talk 5.   Each individual will take an algorithm and implement it 4 different ways.   Similar to Fibonacci (Links to an external site.) that was shared in class.  
 
