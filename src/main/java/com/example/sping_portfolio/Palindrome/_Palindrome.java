@@ -12,45 +12,28 @@ import lombok.Getter;
 @Getter
 public abstract class _Palindrome {
     String name;
-    Duration timeElapsed;
+    long timeElapsed;
+    String result;
 
-    /*
-     Zero parameter constructor uses Telescoping technique to allow setting of the required value nth
-     @param: none
-     */
     public _Palindrome() {
         this("");
     }
 
-    /*
-     Construct the nth fibonacci number
-     @param: nth number, the value is constrained to 92 because of overflow in a long
-     */
     public _Palindrome(String phrase) {
-        //initialize fibonacci and time algorithm
-        Instant start = Instant.now();  // time capture -- start
-        this.init(phrase);
-        Instant end = Instant.now();    // time capture -- end
-        this.timeElapsed = Duration.between(start, end);
+        //initialize palindrome and time algorithm
+        // Instant start = Instant.now();  // time capture -- start
+        long startTime = System.nanoTime();
+        result = this.init(phrase);
+        // Instant end = Instant.now();    // time capture -- end
+        this.timeElapsed = System.nanoTime() - startTime;
     }
 
-    /*
-     Method is abstract as init() requires extender to define their own Fibonacci algorithm
-     Method is protected as it is only authorized to someone who extends the class
-     */
     protected abstract String init(String str);
 
-
-    /*
-     Custom Getter for timeElapsed in init process, timeElapsed.getNano() is part of Duration class
-     */
-    public int getTimeElapsed() {
-        return timeElapsed.getNano();
+    public long getTimeElapsed() {
+        return timeElapsed;
     }
 
-    /*
-     Console/Terminal supported print method
-     */
     public void print() {
         ConsoleMethods.println("Init method = " + this.name);
         ConsoleMethods.println("Init time = " + this.getTimeElapsed());

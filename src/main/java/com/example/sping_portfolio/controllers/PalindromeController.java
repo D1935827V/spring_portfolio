@@ -14,6 +14,9 @@ public class PalindromeController {
     public List<_Palindrome> PalInit(String p) {
         List<_Palindrome> palindromeList = new ArrayList<>();
         palindromeList.add(new PalindromeFor(p));
+        palindromeList.add(new PalindromeWhile(p));
+        palindromeList.add(new PalindromeRecursive(p));
+        palindromeList.add(new PalindromeArray(p));
         return palindromeList;
     }
     @GetMapping("/Palindrome")
