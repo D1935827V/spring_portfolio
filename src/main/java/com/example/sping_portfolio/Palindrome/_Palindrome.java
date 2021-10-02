@@ -2,11 +2,6 @@ package com.example.sping_portfolio.Palindrome;
 
 import com.example.sping_portfolio.ConsoleUI.ConsoleMethods;
 
-import java.time.Duration;
-import java.time.Instant;
-import java.util.ArrayList;
-import java.util.HashMap;
-
 import lombok.Getter;
 
 @Getter
@@ -20,11 +15,8 @@ public abstract class _Palindrome {
     }
 
     public _Palindrome(String phrase) {
-        //initialize palindrome and time algorithm
-        // Instant start = Instant.now();  // time capture -- start
         long startTime = System.nanoTime();
         result = this.init(phrase);
-        // Instant end = Instant.now();    // time capture -- end
         this.timeElapsed = System.nanoTime() - startTime;
     }
 

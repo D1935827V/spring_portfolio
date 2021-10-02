@@ -17,13 +17,13 @@ public class PalindromeRecursive extends _Palindrome {
         phrase = phrase.toLowerCase(Locale.ROOT);
         int n = phrase.length();
         if (n == 0) {
-            return "The phrase is a Palindrome";
+            return "The phrase is a palindrome";
         }
         else if (isPaliRec(phrase, 0, n - 1)) {
-            return "The phrase is a Palindrome";
+            return "The phrase is a palindrome";
         }
         else {
-            return "The phrase is not a Palindrome";
+            return "The phrase is not a palindrome";
         }
     }
 

@@ -20,9 +20,9 @@ public class PalindromeArray extends _Palindrome {
             c[i] = str.charAt(i);
         }
         for (int i = 0, j = c.length - 1; i < j; i++, j--) {
-            if (c[i] == c[j])
-                return "The phrase is a palindrome.";
+            if (c[i] != c[j])
+                return "The phrase is not a palindrome.";
         }
-        return "The phrase is not a palindrome";
+        return "The phrase is a palindrome";
     }
 }

@@ -15,23 +15,19 @@
     `<div class="container">
 
     <div class="center-block" style="margin: 2% 3% 3%; font-family: gilroy,serif;">
-        <!-- Title -->
         <div class="col-12" style="text-align: center;">
             <h1><strong>Palindrome Lab </strong></h1>
         </div>
 
-        <!-- Form and Action -->
         <div class="jumbotron text-center row" style="background-color: brown">
-            <!-- Input -->
             <div class="col-md-6">
                 <h3>Check if a phrase is a palindrome</h3>
                 <img class="img-responsive py-3" th:src="@{/images/lemonmelon.png}" alt="" width="50%" height="Auto">
-                <form id="PalindromeForm" action="/Palindrome" method="GET" >
+                <form id="PalindromeForm" action="/Palindrome" method="GET" autocomplete="off">
                     <input name="phrase" id="phrase" type="text">
                     <button>Go</button>
                 </form>
             </div>
-            <!-- Output/Result -->
             <div class="col-md-6">
                 <h3>Algorithm comparison</h3>
                 <table class="mx-auto">
