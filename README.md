@@ -2,7 +2,7 @@
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
 |:----:|:----:|:----:|:----:|
-|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|...|**[link here](https://youtu.be/AZUWzFMDBKI)**|
+|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|used recursion, running in terminal, will have it on website soon|**[link here](https://youtu.be/AZUWzFMDBKI)**|
 |**[factorial](...)**|**Calvin**|...|**[link here](tbd)**|
 |**[tbd]()**|**Dane**|...|**[link here](tbd)**|
 |**[tbd]()**|**Nicholas**|...|**[link here](tbd)**|
