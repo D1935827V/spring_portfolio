@@ -3,7 +3,7 @@
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
 |:----:|:----:|:----:|:----:|
 |**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|used recursion, running in terminal, will have it on website soon|**[link here](https://youtu.be/AZUWzFMDBKI)**|
-|**[factorial]()**|**Calvin**|Lab is on the website and working|**[link here](tbd)**|
+|**[factorial]()**|**Calvin**|Algo Lab|**[link here](https://www.loom.com/share/b658195827f24902849811985384638c)**|
 |**[tbd]()**|**Dane**|...|**[link here](tbd)**|
 |**[tbd]()**|**Nicholas**|...|**[link here](tbd)**|
 
