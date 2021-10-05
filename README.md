@@ -3,7 +3,7 @@
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
 |**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi|
-|**[tbd]()**|**Calvin**|...|
+|**[Greyscale](Work On Greyscale)**|**Calvin**|...|
 |**[tbd]()**|**Dane**|...|
 |**[tbd]()**|**Nicholas**|...|
 
