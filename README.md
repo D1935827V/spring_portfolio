@@ -1,9 +1,54 @@
+## Modeling Checkpoint plus unit 7
+### Issues ready for review 
+|**Issue**|**Contributors**|**Description of Issue**|
+|:----:|:----:|:----:|
+|**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi|
+|**[tbd]()**|**Calvin**|...|
+|**[tbd]()**|**Dane**|...|
+|**[tbd]()**|**Nicholas**|...|
+
+RGB image work is focus in this lab.  Based on Tech Talk 4.
+
+Focus this week is on Modeling.   Mini-lab is the only assigned coding for the week, however, you could try to implement all these requirement in your PBL if you can find a fit.   Each team needs to complete all coding portions of this assignment,  there should be clear division of work.
+
+View/Frontend improvements 1 Pont
+How would you provide Gray Scale for all the images?
+How would you layout original pic, grayscale pic?  Do they sound like similar objects?
+Since this is a lot of data, what would be good way to select images of your choice and show results in either original or gray?  My recommendation is to try a different approach to presentation.
+
+Control improvements 1 Point
+Is the lii setup being used a best practice?  Can you think of some improvements?  Do setup with 10 images.  IMO lii is an object that "has a" list of ii's as an within in it..
+Should there be two GetMappings?  Try an object model that consolidates these two definitions.  Based off of UI, the language should be...
+
+Model improvements 3 Points (is-a extends, has-a is a attribute)
+The model throughout needs to be reworked from prototype, to something that is MORE Java like.  Modeling is THE KEY element to learning Java.  Please design and model the prototype to be more fully developed.
+an list_of_image(s)_info object (lii) has-a list of images
+an image_info object (ii) has-an image file, has-a list of image_property objects (contains original info, original info with watermark, grey, grey with watermark, etc)
+an image_property object (iprop) has-a description, has-a base64 rendering file, has-a list of RGB attributes
+an image_property_rgb (iprgb) object has-a has a list of RGB attributes in decimal, hexadecimal, and binary
+RGB attributes is-an array of 3 or 4 attributes, Hexadecimal is-a list and Binary is-an array of 3 or 4 attributes as well.
+What is base64?  Can you name some benefits of using this versus a file in coding?  This prototype for base64 implementation only supports PNG.  How would you support JPEG?  Please implement and try with different Image types.
+
+ 
+
+ 
+
+Unit 7 CB scores and Corrections 3 points
+
+### Unit 7 Individual work
+**Name** | **Unit 7 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
+**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
+**Nicholas** | [Notes](https://docs.google.com/document/d/1_nhZzQsfAE4UqJE7etYgw4OfscY9MkEN9iuDb0Cz-io/edit?usp=sharing)
+
 ## Algorithm Extend Lab plus Unit 6
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
 |:----:|:----:|:----:|:----:|
-|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|...|**[link here](tbd)**|
-|**[factorial](...)**|**Calvin**|...|**[link here](tbd)**|
+|**[factorial](https://github.com/D1935827V/spring_portfolio/issues/34)**|**Brayden**|used recursion, running in terminal, will have it on website soon|**[link here](https://youtu.be/AZUWzFMDBKI)**|
+|**[factorial]()**|**Calvin**|Algo Lab|**[link here](https://www.loom.com/share/b658195827f24902849811985384638c)**|
 |**[tbd]()**|**Dane**|...|**[link here](tbd)**|
 |**[tbd]()**|**Nicholas**|...|**[link here](tbd)**|
 
