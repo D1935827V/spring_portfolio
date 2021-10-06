@@ -3,7 +3,7 @@
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
 |**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi|
-|**[Greyscale](Work On Greyscale)**|**Calvin**|...|
+|**[Greyscale]()**|**Calvin**|...|
 |**[tbd]()**|**Dane**|...|
 |**[RGB Image](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nicholas**|Improved the RGB image page|
 
