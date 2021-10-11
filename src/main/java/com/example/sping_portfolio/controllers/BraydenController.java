@@ -1,5 +1,6 @@
 package com.example.sping_portfolio.controllers;
 
+import com.example.sping_portfolio.Algorithm.BraydenFactorial;
 import com.example.sping_portfolio.Palindrome.*;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -12,7 +13,10 @@ import java.util.List;
 public class BraydenController {
 
         @GetMapping("/braydenlabfactorial")
-        public String Palindrome() {
+        public String Palindrome(@RequestParam(name="num", required = false, defaultValue = "10") int num, Model model) {
+            int result = BraydenFactorial.factorial(num);
+            model.addAttribute("input", num);
+            model.addAttribute("result",result);
             return "brayden_algorithm/brayden_factorial.html";
         }
     }

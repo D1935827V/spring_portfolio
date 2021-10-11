@@ -1,6 +1,7 @@
-package com.example.sping_portfolio.controllers;
+package com.example.sping_portfolio.Algorithm;
+
 import java.util.Scanner;
-class BraydenFactorial
+public class BraydenFactorial
 {
     public static void main(String args[])
     {
@@ -21,4 +22,17 @@ class BraydenFactorial
             System.out.println("factorial of your number "+n+" is = "+f);
         }
     }
+    public static int factorial(int n){
+        int c, f = 1;
+        if (n < 0)
+            return -1;
+        else
+        {
+            for (c = 1; c <= n; c++)
+                f = f*c;
+
+            return f;
+        }
+    }
 }
+// add abstract method

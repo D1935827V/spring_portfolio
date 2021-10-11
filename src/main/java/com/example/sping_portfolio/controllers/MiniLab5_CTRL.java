@@ -10,7 +10,7 @@ import java.util.List;
 
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
 public class MiniLab5_CTRL {
-    @GetMapping("/MiniLab5/MiniLab5")
+    @GetMapping("/MiniLab5")
     public String image(Model model) {
         String web_server = "http://localhost:8080";
         List<ImageInfo> lii = new ArrayList<>();
