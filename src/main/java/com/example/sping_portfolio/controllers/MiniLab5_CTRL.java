@@ -15,17 +15,21 @@ public class MiniLab5_CTRL {
         String web_server = "http://localhost:8080";
         List<ImageInfo> lii = new ArrayList<>();
 
-        String file0 = "/images/Mona_Lisa.png";
+        String file0 = "/images/Mona_Lisa_RE.png";
         lii.add(new ImageInfo(file0, web_server + file0, 12));
         lii.get(0).read_image();
 
-        String file1 = "/images/bulb_on.gif";
+        String file1 = "/images/calvinbackhurts.png";
         lii.add(new ImageInfo(file1, web_server + file1, 2));
         lii.get(1).read_image();
 
-        String file2 = "/images/bulb_off.png";
-        lii.add(new ImageInfo(file2, web_server + file2, 7));
+        String file2 = "/images/whereisthetwix.png";
+        lii.add(new ImageInfo(file2, web_server + file2, 12));
         lii.get(2).read_image();
+
+        String file0 = "/images/Mona_Lisa_RE.png";
+        lii.add(new ImageInfo(file0, web_server + file0, 12));
+        lii.get(0).read_image();
 
         model.addAttribute("lii", lii);
         return "/MiniLab5/MiniLab5";
@@ -36,21 +40,19 @@ public class MiniLab5_CTRL {
         String web_server = "http://localhost:8080";
         List<ImageInfo> lii = new ArrayList<>();
 
-        String file0 = "/images/Mona_Lisa.png";
-        lii.add(new ImageInfo(file0, web_server +file0, 12));
-        String str0 = lii.get(0).grayscale();
+        String file0 = "/images/whereisthetwix.png";
+        lii.add(new ImageInfo(file0, web_server + file0, 12));
+        lii.get(0).read_image();
 
-        String file1 = "/images/bulb_on.gif";
+        String file1 = "/images/calvinbackhurts.png";
         lii.add(new ImageInfo(file1, web_server + file1, 12));
-        String str1 = lii.get(0).grayscale();
+        lii.get(1).read_image();
 
-        String file2 = "/images/bulb_off.png";
+        String file2 = "/images/Mona_Lisa.png";
         lii.add(new ImageInfo(file2, web_server + file2, 12));
-        String str2 = lii.get(0).grayscale();
+        lii.get(2).read_image();
 
-        model.addAttribute("str0", str0);
-        model.addAttribute("str1", str1);
-        model.addAttribute("str2", str2);
+        model.addAttribute("lii", lii);
         return "/MiniLab5/image_grayscale";
     }
 }

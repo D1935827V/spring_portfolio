@@ -21,57 +21,57 @@
 <body>
 <div layout:fragment="content" th:remove="tag">
 
-     <div class="container">
+    <div class="container">
 
-         <div class="center-block" style="margin: 2% 3% 3%; color:black; ">
-        <!-- Title -->
-        <div class="col-12" style="text-align: center;">
-            <h1><strong>4 Diffrent Methods to get a Factorial</strong></h1>
-        </div>
-
-        <!-- Form and Action -->
-        <div class="jumbotron text-center row">
-            <!-- Input -->
-            <div class="col-md-6">
-                <h3>Type the number you want the factorial of!</h3>
-                <img class="img-responsive py-3" th:src="@{/images/fibonacci_spiral.svg}" alt="" width="50%" height="Auto">
-                <form id="fibForm" action="/AlgoExtendLab_Calvin" method="GET" >
-                    <input name="fibs" id="fibs" type="number">
-                    <input name="SLC" id="SLC" type="text">
-                    <button>Go!</button>
-                </form>
+        <div class="center-block" style="margin: 2% 3% 3%; color:black; ">
+            <!-- Title -->
+            <div class="col-12" style="text-align: center;">
+                <h1><strong>4 Diffrent Methods to get a Factorial</strong></h1>
             </div>
-            <!-- Output/Result -->
-            <div class="col-md-6">
-                <h3>Algorithm comparison</h3>
-                <table class="mx-auto">
-                    <tr>
-                        <th scope="col">Method</th>
-                        <th scope="col">Time</th>
-                        <th scope="col">Number</th>
-                        <th scope="col">List</th>
-                    </tr>
-                    <tr th:each="fib : ${fibList}">
-                        <td th:text="${fib.getName()}"></td>
-                        <td th:text="${fib.getTimeElapsed()}"></td>
-                        <td th:text="${fib.getNth()}"></td>
-                        <td th:text="${fib.getList()}"></td>
-                    </tr>
-                </table>
+
+            <!-- Form and Action -->
+            <div class="jumbotron text-center row">
+                <!-- Input -->
+                <div class="col-md-6">
+                    <h3>Type the number you want the factorial of!</h3>
+                    <img class="img-responsive py-3" th:src="@{/images/fibonacci_spiral.svg}" alt="" width="50%" height="Auto">
+                    <form id="fibForm" action="/AlgoExtendLab_Calvin" method="GET" >
+                        <input name="fibs" id="fibs" type="number" min="1" max="20">
+                        <input name="SLC" id="SLC" type="text">
+                        <button>Go!</button>
+                    </form>
+                </div>
+                <!-- Output/Result -->
+                <div class="col-md-6">
+                    <h3>Algorithm comparison</h3>
+                    <table class="mx-auto">
+                        <tr>
+                            <th scope="col">Method</th>
+                            <th scope="col">Time</th>
+                            <th scope="col">Number</th>
+                            <th scope="col">List</th>
+                        </tr>
+                        <tr th:each="fib : ${fibList}">
+                            <td th:text="${fib.getName()}"></td>
+                            <td th:text="${fib.getTimeElapsed()}"></td>
+                            <td th:text="${fib.getNth()}"></td>
+                            <td th:text="${fib.getList()}"></td>
+                        </tr>
+                    </table>
+                </div>
             </div>
+
+
         </div>
-
-
-</div>
-    <style>
-        table, td, th {
-            border: 1px solid var(--dblue);
-        }
-        td, th {
-            text-align:left;
-        }
-    </style>
-</div>`
+        <style>
+            table, td, th {
+                border: 1px solid var(--dblue);
+            }
+            td, th {
+                text-align:left;
+            }
+        </style>
+    </div>`
 </body>
 
 </html>
