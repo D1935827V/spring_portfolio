@@ -27,9 +27,7 @@ public class MiniLab5_CTRL {
         lii.add(new ImageInfo(file2, web_server + file2, 12));
         lii.get(2).read_image();
 
-        String file0 = "/images/Mona_Lisa_RE.png";
-        lii.add(new ImageInfo(file0, web_server + file0, 12));
-        lii.get(0).read_image();
+
 
         model.addAttribute("lii", lii);
         return "/MiniLab5/MiniLab5";
