@@ -35,3 +35,4 @@ public class BraydenFactorial
         }
     }
 }
+// add abstract method
