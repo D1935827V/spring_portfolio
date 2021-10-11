@@ -1,3 +1,41 @@
+## N@tM Overview plus Unit 8
+### Issues ready for review 
+|**Issue**|**Contributors**|**Description of Issue**|
+|:----:|:----:|:----:|
+|**[tbd]()**|**Brayden**|...|
+|**[tbd]()**|**Calvin**|...|
+|**[tbd]()**|**Dane**|...|
+|**[tbd]()**|**Nicholas**|...|
+
+This weeks focus is to dust off and reestablish vision between Scrum Team and class on each Scrum Teams N@tM project.   Remember, the focus of N@tM is to share interesting things you have learned in your 1st Trimester by way of Code that is running on a Deployed Web application.
+
+Each team will do a 5 minute design, runtime, and feature presentation to the entire Class.
+
+1 point.  Key features planned for N@tM project (can be assisted by Documents or Slices)
+2 points. Show running project, allow others to access project online
+2 points. Highlight 2 or 3 completed features
+3 points. ASCII art lab.
+
+2 points.  Unit 8.
+
+
+Grading Plan during Reviews
+
+Each team will create a Review Ticket to receive instant feedback on their presentation from teacher and students
+Teacher(s) will provide comments on how points are met (1 comment at end)
+Students will provide comment on highlights and improvements (1 comment at end)
+Scrum Master will review Unit 8 scores with Team and cite links to evidence in Message
+OO's to review ASCII art lab and present best version for .5, .25, .10 extra credit on top of 3 score
+Scrum Master will highlight best ideas from comments and present final score as the final comment in Review Ticket
+
+### Unit 8 Individual work
+**Name** | **Unit 8 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
+**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
+**Nicholas** | [Notes](https://docs.google.com/document/d/16D0eQ_zxz73u0QobHrJQNsrWgb_pMmlYBhrCiXJGyCo/edit?usp=sharing)
+
 ## Modeling Checkpoint plus unit 7
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
