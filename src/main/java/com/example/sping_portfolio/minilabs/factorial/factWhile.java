@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class factWhile extends parentFactorial {
     public Integer factorial()
     {
-        int iteration = 7;
+        int iteration = 3;
         while(iteration > 0)
         {
             x = x * iteration;
