@@ -17,9 +17,6 @@ public class BraydenController {
             int result = BraydenFactorial.factorial(num);
             model.addAttribute("input", num);
             model.addAttribute("result",result);
-
-
-
             return "brayden_algorithm/brayden_factorial.html";
         }
     }

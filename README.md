@@ -4,7 +4,7 @@
 |:----:|:----:|:----:|
 |**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi|
 |**[Greyscale]()**|**Calvin**|Work on Greyscale minilab|
-|**[tbd]()**|**Dane**[Work on MOdel Improvements](https://github.com/D1935827V/spring_portfolio/issues/42)
+|**[tbd](https://github.com/D1935827V/spring_portfolio/issues/42)**|**Dane**|Work on MOdel Improvements|
 |**[RGB Image](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nicholas**|Improved the RGB image page|
 
 RGB image work is focus in this lab.  Based on Tech Talk 4.
