@@ -3,7 +3,7 @@
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
 |**[tbd]()**|**Brayden**|...|
-|**[tbd]()**|**Calvin**|...|
+|**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
 |**[tbd]()**|**Dane**|...|
 |**[tbd]()**|**Nicholas**|...|
 
