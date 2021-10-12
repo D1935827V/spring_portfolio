@@ -40,7 +40,7 @@ Scrum Master will highlight best ideas from comments and present final score as 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi|
+|**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi https://youtu.be/AQGBNQ6m1pE|
 |**[Greyscale](https://youtu.be/4E6hV8Hr4u0)**|**Calvin**|Work on Greyscale minilab    click Greyscale to the right to see my contribution this week|
 |**[tbd](https://github.com/D1935827V/spring_portfolio/issues/42)**|**Dane**|Work on MOdel Improvements|
 |**[RGB Image](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nicholas**|Improved the RGB image page|
