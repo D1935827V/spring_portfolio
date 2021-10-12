@@ -2,7 +2,7 @@
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[tbd]()**|**Brayden**|...|
+|**[Deploy]()**|**Brayden**|I will deploy on my pi this week, as well as help the team with other code|
 |**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
 |**[tbd]()**|**Dane**|...|
 |**[tbd]()**|**Nicholas**|...|
