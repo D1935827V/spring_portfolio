@@ -44,7 +44,7 @@ Scrum Master will highlight best ideas from comments and present final score as 
 |**[Greyscale](https://youtu.be/4E6hV8Hr4u0)**|**Calvin**|Work on Greyscale minilab    click Greyscale to the right to see my contribution this week|
 |**[tbd](https://github.com/D1935827V/spring_portfolio/issues/42)**|**Dane**|Work on MOdel Improvements|
 |**[RGB Image](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nicholas**|Improved the RGB image page|
-
+"Week 7 review" TEAM TICKET https://github.com/D1935827V/spring_portfolio/issues/32
 RGB image work is focus in this lab.  Based on Tech Talk 4.
 
 Focus this week is on Modeling.   Mini-lab is the only assigned coding for the week, however, you could try to implement all these requirement in your PBL if you can find a fit.   Each team needs to complete all coding portions of this assignment,  there should be clear division of work.
