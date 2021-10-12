@@ -38,9 +38,9 @@ Scrum Master will highlight best ideas from comments and present final score as 
 
 ## Modeling Checkpoint plus unit 7
 ### Issues ready for review 
-|**Issue**|**Contributors**|**Description of Issue**|
-|:----:|:----:|:----:|
-|**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi https://youtu.be/AQGBNQ6m1pE|
+|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
+|:----:|:----:|:----:|:----:|
+|**[VNC and abstract classes](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will put a VNC on my pi and deploy it week after. I will imporve on my lab from last week and include abstract classes|https://youtu.be/AQGBNQ6m1pE|
 |**[Greyscale](https://youtu.be/4E6hV8Hr4u0)**|**Calvin**|Work on Greyscale minilab    click Greyscale to the right to see my contribution this week|
 |**[tbd](https://github.com/D1935827V/spring_portfolio/issues/42)**|**Dane**|Work on MOdel Improvements|
 |**[RGB Image](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nicholas**|Improved the RGB image page|
