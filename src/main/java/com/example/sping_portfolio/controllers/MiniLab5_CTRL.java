@@ -46,10 +46,12 @@ public class MiniLab5_CTRL {
         list.add("/images/Mona_Lisa.png");
 
         Iterator iterator = list.iterator();
+        int i=0;
         while(iterator.hasNext()) {
-            lii.add(new ImageInfo(String.valueOf(iterator.next()), web_server + (iterator.next()), 12));
-            lii.get(0).read_image();
-            System.out.println(iterator.next());
+            lii.add(new ImageInfo(("File"+(i)), web_server + (iterator.next()), 12));
+            lii.get(i).read_image();
+            System.out.println(i);
+            i++;
         }
 
         /*String file0 = "/images/whereisthetwix.png";
