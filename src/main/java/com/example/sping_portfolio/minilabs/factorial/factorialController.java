@@ -1,25 +1,13 @@
 package com.example.sping_portfolio.minilabs.factorial;
-//import com.example.spring_portfolio.minilabs.arithmeticTwo.arithRecurse;
-//import com.example.spring_portfolio.minilabs.arithmeticTwo.arithStream;
-//import com.example.spring_portfolio.minilabs.arithmeticTwo.arithWhile;
-//import com.example.spring_portfolio.minilabs.arithmeticTwo.parentArithmetic;
-
-import java.util.ArrayList;
-import java.util.Scanner;
 
 public class factorialController {
 
 
     public static void main(String[] args) {
-        //Scanner input = new Scanner(System.in);
-        //System.out.println("Which factorial?");
-        //String iterations = input.nextLine();
-        //int y = Integer.parseInt(iterations);
-        //parentFactorial.iter=y;
+
         parentFactorial fact1 = new factFor();
         parentFactorial fact2 = new factWhile();
         parentFactorial fact3 = new factRecurse();
-        //parentFactorial fact4 = new factStream();
 
         parentFactorial.forr = true;
         parentFactorial.whilee = true;
