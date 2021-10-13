@@ -11,7 +11,7 @@
 |:----:|:----:|:----:|
 |**[Deploy]()**|**Brayden**|I will deploy on my pi this week, as well as help the team with other code|
 |**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
-|**[tbd]()**|**Dane**|...|
+|**[tbd]()**|**Dane**|Work on PBL|
 |**[tbd]()**|**Nicholas**|...|
 
 This weeks focus is to dust off and reestablish vision between Scrum Team and class on each Scrum Teams N@tM project.   Remember, the focus of N@tM is to share interesting things you have learned in your 1st Trimester by way of Code that is running on a Deployed Web application.
