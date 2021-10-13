@@ -1,4 +1,4 @@
-#Description of Project
+# Description of Project
 On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's.
 
 ### Profiles
