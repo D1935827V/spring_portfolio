@@ -13,6 +13,6 @@ public abstract class parentFactorial{
     static int iter;
     public abstract Integer factorial();
     public void print() {
-        System.out.println("Factorial = " + x);
+        System.out.println("factorial equals = " + x);
     }
 }
