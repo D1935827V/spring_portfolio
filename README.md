@@ -1,4 +1,6 @@
-## N@tM Overview plus Unit 8
+# Description of Project
+On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's.
+
 ### Profiles
 **Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
 | :---: | :---: | :--: | :--: | :--: | :--:
@@ -6,6 +8,8 @@
 **Calvin** | QwikSP | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AQwikSP+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=QwikSP) | [Link](https://github.com/QwikSP)
 **Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
+
+## N@tM Overview plus Unit 8
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
