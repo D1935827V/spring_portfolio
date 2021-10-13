@@ -1,9 +1,16 @@
 ## N@tM Overview plus Unit 8
+### Profiles
+**Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
+| :---: | :---: | :--: | :--: | :--: | :--:
+**Brayden** | BraydenBasinger | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3ABraydenBasinger+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Abraydenbasinger) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=BraydenBasinger) | [Link](https://github.com/BraydenBasinger)
+**Calvin** | QwikSP | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AQwikSP+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=QwikSP) | [Link](https://github.com/QwikSP)
+**Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
+**Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[tbd]()**|**Brayden**|...|
-|**[tbd]()**|**Calvin**|...|
+|**[Deploy]()**|**Brayden**|I will deploy on my pi this week, as well as help the team with other code|
+|**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
 |**[tbd]()**|**Dane**|...|
 |**[tbd]()**|**Nicholas**|...|
 
@@ -32,17 +39,18 @@ Scrum Master will highlight best ideas from comments and present final score as 
 **Name** | **Unit 8 work**
 | :---: | :---:
 **Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
-**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.g4kn3d3unyow) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.33j0pzbads0y)
 **Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
 **Nicholas** | [Notes](https://docs.google.com/document/d/16D0eQ_zxz73u0QobHrJQNsrWgb_pMmlYBhrCiXJGyCo/edit?usp=sharing)
 
 ## Modeling Checkpoint plus unit 7
 ### Issues ready for review 
-|**Issue**|**Contributors**|**Description of Issue**|
-|:----:|:----:|:----:|
-|**[deploy](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|I will deploy the website on my Pi|
-|**[Greyscale]()**|**Calvin**|Work on Greyscale minilab|
-|**[tbd](https://github.com/D1935827V/spring_portfolio/issues/42)**|**Dane**|Work on MOdel Improvements|
+Week 7 review TEAM TICKET - https://github.com/D1935827V/spring_portfolio/issues/32
+|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
+|:----:|:----:|:----:|:----:|
+|**[VNC and abstract classes & greyscale](https://github.com/D1935827V/spring_portfolio/issues/39)**|**Brayden**|(along with helping with the greyscale lab this week) I will put a VNC on my pi and deploy it week after. I will improve on my lab from last week and include abstract classes|https://youtu.be/AQGBNQ6m1pE|
+|**[Greyscale](https://github.com/D1935827V/spring_portfolio/issues/32)**|**Calvin**|Work on Greyscale minilab click|https://youtu.be/4E6hV8Hr4u0|
+|**[tbd](https://github.com/D1935827V/spring_portfolio/issues/42)**|**Dane**|Work on Model Improvements|https://cs-a-hq.slack.com/archives/C02CF2BMH1N/p1634056608001100|
 |**[RGB Image](https://github.com/D1935827V/spring_portfolio/issues/21)**|**Nicholas**|Improved the RGB image page|
 
 RGB image work is focus in this lab.  Based on Tech Talk 4.
@@ -77,7 +85,7 @@ Unit 7 CB scores and Corrections 3 points
 **Name** | **Unit 7 work**
 | :---: | :---:
 **Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
-**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.r6lcquk7ea55) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.chk6kpqyuv17)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.g4kn3d3unyow) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.33j0pzbads0y)
 **Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
 **Nicholas** | [Notes](https://docs.google.com/document/d/16D0eQ_zxz73u0QobHrJQNsrWgb_pMmlYBhrCiXJGyCo/edit?usp=sharing)
 
