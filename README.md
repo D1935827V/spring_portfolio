@@ -13,7 +13,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[Deploy & ASCII Art](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Brayden**|I will deploy on my pi this week, as well as help the team with other code|
+|**[Deploy & ASCII Art](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Brayden**|I will deploy on my pi this week, as well do the ASCII art image lab|
 |**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
 |**[tbd]()**|**Dane**|Work on PBL|
 |**[Ascii Art Lab](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Nicholas**|Convert an image to grayscale, then use 2D Array to make ASCII Art|
