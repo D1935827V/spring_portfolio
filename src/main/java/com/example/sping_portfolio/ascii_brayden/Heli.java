@@ -10,6 +10,7 @@ public class Heli extends BaseAnim {
 
     public void heli() {
 
+        System.out.println("           ---------------------------------------------------");
         System.out.println("                            ||");
         System.out.println("                         __ ||                                        ___");
         System.out.println("                         ] ''''---...._                             .' //");
