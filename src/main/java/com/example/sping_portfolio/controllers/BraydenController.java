@@ -24,6 +24,11 @@ public class BraydenController {
         public String Map() {
             return "Map";
         }
+
+        @GetMapping("/northamerica")
+        public String NA() {
+            return "northamerica";
+        }
     }
 
 
