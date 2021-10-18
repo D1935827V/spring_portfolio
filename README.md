@@ -10,6 +10,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
 
 ## N@tM Overview plus Unit 8
+### [Review Ticket](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/2)
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
