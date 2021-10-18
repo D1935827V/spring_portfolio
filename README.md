@@ -13,7 +13,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[Deploy]()**|**Brayden**|I will deploy on my pi this week, as well as help the team with other code|
+|**[Deploy & ASCII Art](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Brayden**|I will deploy on my pi this week, as well do the ASCII art image lab|
 |**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
 |**[tbd]()**|**Dane**|Work on PBL|
 |**[Ascii Art Lab](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Nicholas**|Convert an image to grayscale, then use 2D Array to make ASCII Art|
@@ -43,9 +43,9 @@ Scrum Master will highlight best ideas from comments and present final score as 
 **Name** | **Unit 8 work**
 | :---: | :---:
 **Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
-**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.g4kn3d3unyow) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.33j0pzbads0y)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.z6hj7n1ireqm) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.2tg7gt6oknj2)
 **Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
-**Nicholas** | [Notes](https://docs.google.com/document/d/16D0eQ_zxz73u0QobHrJQNsrWgb_pMmlYBhrCiXJGyCo/edit?usp=sharing)
+**Nicholas** | [Notes](https://docs.google.com/document/d/1UV_czraikyLUVZt-85iJkltNf1w6YP2Kx_GnuH8dGek/edit?usp=sharing)
 
 ## Modeling Checkpoint plus unit 7
 ### Issues ready for review 
