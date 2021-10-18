@@ -29,6 +29,16 @@ public class BraydenController {
         public String NA() {
             return "northamerica";
         }
+
+        @GetMapping("/survey")
+        public String survey() {
+            return "survey";
+        }
+
+        @GetMapping("/asbsurvey")
+        public String asbsurvey() {
+            return "asbsurvey";
+        }
     }
 
 
