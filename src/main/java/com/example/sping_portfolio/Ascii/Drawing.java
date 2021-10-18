@@ -68,11 +68,6 @@ public class Drawing {
      */
     public static void drawCircle(int[][] r, int[][] g, int[][] b,
                                   double cx, double cy, double radius) {
-        // TODO: Write a system of loops that draws the appropriate
-        // circle in magenta
-
-        // Loop through every pixel, and check if that pixel is within
-        // the circle
 
         // Loop through the rows first
         for (int i = 0; i < r.length; i++) {
