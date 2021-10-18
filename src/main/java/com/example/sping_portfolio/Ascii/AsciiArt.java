@@ -46,13 +46,13 @@ public class AsciiArt {
     }
 
     public static void main(String[] args) {
-        Picture picture = new Picture("src/main/resources/static/images/pumpkin_small.png");
+        Picture picture = new Picture("src/main/resources/static/images/clock.png");
         double[][] image = getGrayscaleArray(picture);
 
         // converts grayscale image 2D array to ascii art
         for (int row = 0; row < image.length; row++) {
             for (int column = 0; column < image[0].length; column++) {
-                System.out.print(brightnessToChar(image[row][column]));
+                System.out.print(brightnessToChar(image[row][column]) + " ");
             }
             System.out.println();
         }
