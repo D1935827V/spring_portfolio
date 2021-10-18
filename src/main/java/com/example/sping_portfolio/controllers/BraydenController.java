@@ -19,5 +19,12 @@ public class BraydenController {
             model.addAttribute("result",result);
             return "brayden_algorithm/brayden_factorial.html";
         }
+
+        @GetMapping("/Map")
+        public String Map() {
+            return "Map";
+        }
     }
+
+
 
