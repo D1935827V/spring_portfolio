@@ -31,3 +31,4 @@ public abstract class _Palindrome {
         ConsoleMethods.println("Init time = " + this.getTimeElapsed());
     }
 }
+// test
