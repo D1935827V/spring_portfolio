@@ -16,7 +16,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |:----:|:----:|:----:|
 |**[Deploy & Interactive Map](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/4)**|**Brayden**|I will deploy with Dane on my pi this week, make an interactive map, and help with the ASCII art image lab|
 |**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
-|**[Deploy]()**|**Dane**|Get VNC setup and deploy|
+|**[Deploy](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/5)**|**Dane**|Get VNC setup and deploy|
 |**[Ascii Art Lab](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Nicholas**|Convert an image to grayscale, then use 2D Array to make ASCII Art|
 
 This weeks focus is to dust off and reestablish vision between Scrum Team and class on each Scrum Teams N@tM project.   Remember, the focus of N@tM is to share interesting things you have learned in your 1st Trimester by way of Code that is running on a Deployed Web application.
