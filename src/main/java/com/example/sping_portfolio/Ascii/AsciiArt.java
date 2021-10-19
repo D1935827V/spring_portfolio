@@ -44,15 +44,27 @@ public class AsciiArt {
         return GRAYSCALE_CHARS.charAt(i);
     }
 
-    public static char[][] main(Picture picture) {
+
+    public static void main(String[] args) {
+        Picture picture = new Picture("src/main/resources/static/images/bulb_on_small.gif");
         double[][] image = getGrayscaleArray(picture);
-        char[][] asciiarray = new char[image.length][image[0].length];
+
         // converts grayscale image 2D array to ascii art
         for (int row = 0; row < image.length; row++) {
             for (int column = 0; column < image[0].length; column++) {
-                asciiarray[row][column] = brightnessToChar(image[row][column]);
+                System.out.print(brightnessToChar(image[row][column]) + " ");
             }
+            System.out.println();
         }
-        return asciiarray;
     }
+    //public static char[][] main(Picture picture) {
+    //        double[][] image = getGrayscaleArray(picture);
+    //        char[][] asciiarray = new char[image.length][image[0].length];
+    //        // converts grayscale image 2D array to ascii art
+    //        for (int row = 0; row < image.length; row++) {
+    //            for (int column = 0; column < image[0].length; column++) {
+    //                asciiarray[row][column] = brightnessToChar(image[row][column]);
+    //            }
+    //        }
+    //        return asciiarray;
 }
