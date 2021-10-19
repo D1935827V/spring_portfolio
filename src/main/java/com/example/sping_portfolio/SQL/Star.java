@@ -1,10 +1,15 @@
 package com.example.sping_portfolio.SQL;
 
+// https://projectlombok.org/features/all
+
 import lombok.*;
 
 import javax.persistence.*;
 import javax.validation.constraints.Size;
 
+/*
+Family Information Class
+ */
 @NoArgsConstructor
 @Getter
 @Setter
@@ -12,21 +17,19 @@ import javax.validation.constraints.Size;
 @Entity
 public class Star {
     @Id
-    @Column(name = "id", nullable = false)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
     @NonNull
-    @Size(min = 2, max = 30, message = "Teacher Name")
-    private String Teacher_Name;
+    @Size(min = 2, max = 30, message = "Name (2 to 30 chars)")
+    private String star;
 
-    @NonNull
-    @Size(min = 1, max = 5, message = "Add a rating")
-    private int rating;
-
-
-    public Star(String name, String store, Integer rating){
-        this.Teacher_Name = Teacher_Name;
-        this.rating = rating;
-    }
+    /* In JPA the main difference between a OneToOne and a ManyToOne relationship ...
+     a ManyToOne always contains a foreign key from the source object's table
+     a OneToOne relationship the foreign key may either be in the source object's table or the target object's table.
+     */
+    @ManyToOne
+    @JoinColumn(name = "primary_id")    //foreign key is stored in table
+    public Star primary;
 
 }
