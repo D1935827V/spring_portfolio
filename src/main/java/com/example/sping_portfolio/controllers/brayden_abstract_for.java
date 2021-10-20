@@ -1,6 +1,6 @@
 package com.example.sping_portfolio.controllers;
 
-public class brayden_abstract_for extends  MiniLab6{
+public class brayden_abstract_for extends MiniLab6{
     @Override
     public void executeAction() {
         System.out.print(geometric(4));
