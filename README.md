@@ -1,5 +1,5 @@
 # Description of Project
-On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's.
+On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's. Our theme is education, as we have surveys about clubs and teachers.
 
 ### Profiles
 **Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
@@ -8,6 +8,40 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 **Calvin** | QwikSP | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AQwikSP+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=QwikSP) | [Link](https://github.com/QwikSP)
 **Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
+
+## Individual Final (Part 1)
+
+### Issues ready for review 
+|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
+|:----:|:----:|:----:|
+|**[...](...)**|**Brayden**|...|**[link here](...)**|
+|**[...](...)**|**Calvin**|...|**[link here](...)**|
+|**[..](...)**|**Dane**|...|**[link here](...)**|
+|**[...](...)**|**Nicholas**|...|**[link here](...)**|
+
+Show key observation or things you have implemented that are related to College Board topics (Java).  Be precise in showing relationships between work and Java unit.
+
+Unit 4 and 10, loops and recursion with the key interests being algorithms and analysis
+Unit 5 and 9, focus should be on Model and building complex data relationships through modeling, this can include Databases
+Unit 6 and 7, structure that is managing many objects in a solution and using those relationships in View and Control
+Unit 8 an applications for 2D models and using these types of models in a grid or table
+Here is an option that is strictly PBL.
+
+Program Design and Purpose (PBL project designs HTML/CSS/Thymeleaf, Deployment, Database/POJO be sure to cover the "Why" behind project and purpose of your code)
+You will prepare a video between 2:30 to 3:15 minutes.  You will cover 2 topics in video.   Additionally, you will prepare 1 other topic for live review during the following week with Teacher.  A total of 3 topics.
+
+All preparations need to be from your own work.  These will be from CODE and should be supported by Journals, Issues, README, Preso's, etc.  
+
+Grading Plan
+
+Make a link in Time box portion of README that contains a link to an issue/ticket that contains everyones Videos, Scrum team comments and scores.   I think it would be best to have a Table with video and scores by each individual.  Make sure it is intuitive to find videos and see scores, provide an average of the scores.
+
+2 times (3 points per topic, total of 6 points).  On each point.   .25, .50, .75 increments can be used.
+
+1 point.  Looking for a relationship between work presented and College Board or PBL topic.  Make this obvious, share CB number, topic, quiz question(s)!!!  .50 for effort, .75 for CB to PBL relation, 1.0 for CBL to PBL brilliance.
+1 point.  Demonstrating command of Technical Topic through PBL, ie Tour of Code. (.50 PBL topic fuzzy, .75 PBL topic OK, 1.0 PBL topic shows Command)
+1 point.  Making the topic professional, interesting, unique.  (.50 no energy / vibe in presentation, .75 well prepared, conventional 1.0 very well prepared, something unique, WOW
+Each Scrum team member to watch Video grade and comment in ticket/issue 3 positive comments and 1 improvement suggestion (grader receives 2 points for comments, 50% weak comments no tangible references, 75% ok comment with tangible references, 100% value added analysis
 
 ## N@tM Overview plus Unit 8
 ### [Review Ticket](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/2)
