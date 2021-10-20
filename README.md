@@ -13,7 +13,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
-|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 |**[...](...)**|**Brayden**|...|**[link here](...)**|
 |**[...](...)**|**Calvin**|...|**[link here](...)**|
 |**[..](...)**|**Dane**|...|**[link here](...)**|
