@@ -39,6 +39,11 @@ public class BraydenController {
         public String asbsurvey() {
             return "asbsurvey";
         }
+
+        @GetMapping("/braydenascii")
+        public String braydenasci() {
+            return "braydenascii";
+        }
     }
 
 
