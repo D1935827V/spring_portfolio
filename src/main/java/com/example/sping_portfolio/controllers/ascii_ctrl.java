@@ -12,10 +12,13 @@ import java.io.File;
 
 @Controller
 public class ascii_ctrl {
-    @GetMapping("/AsciiArt")
-    public String ascii(/* @RequestParam(name="image") MultipartFile image, Model model*/) {
-    //        Picture picture = new Picture((File) image);
-    //        model.addAttribute("img", AsciiArt.main(picture));
-        return "/ascii";
+    @GetMapping("/ascii")
+    public String ascii(@RequestParam(name="image") MultipartFile image, Model model) {
+            Picture picture = new Picture((File) image);
+            picture = (Picture) AsciiArt.main(picture);
+
+
+            model.addAttribute("picture", picture);
+        return "ascii";
     }
 }

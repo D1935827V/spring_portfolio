@@ -1,6 +1,6 @@
 package com.nighthawk.csa.data;
 
-import org.json.simple.parser.ParseException;
+import  org.json.simple.parser.ParseException;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
@@ -34,7 +34,6 @@ public class WebAPIController {
                 .method("GET", HttpRequest.BodyPublishers.noBody())
                 .build();
         HttpResponse<String> response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
-
         //alternative #1: convert response.body() to java hash map
         var map = new ObjectMapper().readValue(response.body(), HashMap.class);
 

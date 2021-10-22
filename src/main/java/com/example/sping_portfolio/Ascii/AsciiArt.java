@@ -45,7 +45,7 @@ public class AsciiArt {
     }
 
 
-    public static void main(String[] args) {
+    public static Object main(Picture args) {
         Picture picture = new Picture("src/main/resources/static/images/bulb_on_small.gif");
         double[][] image = getGrayscaleArray(picture);
 
@@ -56,6 +56,7 @@ public class AsciiArt {
             }
             System.out.println();
         }
+        return null;
     }
     //public static char[][] main(Picture picture) {
     //        double[][] image = getGrayscaleArray(picture);
