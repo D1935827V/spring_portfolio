@@ -12,7 +12,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 ## Individual Final (Part 1 & 2)
 
 ### Issues ready for review 
-|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|**Brayden's Grade**|**Calvin's Grade**|**Dane's Grade**|**Nick's grade**
+|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|**Brayden's Peer Reviews**|**Calvin's Peer Reviews**|**Dane's Peer Reviews**|**Nick's Peer Reviews**
 |:-------:|:--------------:|:----------------------:|:---------------:|:-----------------:|:----------------:|:--------------:|:-------------:|
 |**[...](...)**|**Brayden**|...|**[link here](...)**|**|...|**|...|**|...
 |**[...](...)**|**Calvin**|Unit 4 and 10 and Unit 6 and 7|**[link here](http://youtu.be/KKNSt9TRDow?hd=1)**|**|...|**|...|**|...
