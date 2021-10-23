@@ -17,7 +17,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |**[...](...)**|**Brayden**|...|**[link here](...)**|
 |**[...](...)**|**Calvin**|Unit 4 and 10 and Unit 6 and 7|**[link here](http://youtu.be/KKNSt9TRDow?hd=1)**|
 |**[..](...)**|**Dane**|...|**[link here](...)**|
-|**[...](...)**|**Nicholas**|...|**[link here](...)**|
+|**[...](...)**|**Nicholas**|...|**[link here](...)**|...|**|...|...|
 
 ## Part 2:
 Live review with Teacher (5 points),
