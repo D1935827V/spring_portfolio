@@ -9,7 +9,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 **Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
 
-## Individual Final (Part 1)
+## Individual Final (Part 1 & 2)
 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|
@@ -18,6 +18,15 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |**[...](...)**|**Calvin**|...|**[link here](...)**|
 |**[..](...)**|**Dane**|...|**[link here](...)**|
 |**[...](...)**|**Nicholas**|...|**[link here](...)**|
+
+## Part 2:
+Live review with Teacher (5 points),
+
+2 points on live review topic.   
+1 point on my assessment of overall quality and participation in Individual Final, Part 1 & 2.  
+2 points Unit 9 completed and journal review.
+
+## Part 1:
 
 Show key observation or things you have implemented that are related to College Board topics (Java).  Be precise in showing relationships between work and Java unit.
 
