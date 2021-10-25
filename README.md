@@ -17,7 +17,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6)**|**Brayden**|My 2 things are ASCII art and factorial|**[link here](https://youtu.be/rsLrvbWp1Io)**|...|...|...|...|/6
 |**[...](...)**|**Calvin**|Unit 4 and 10 and Unit 6 and 7|**[link here](http://youtu.be/KKNSt9TRDow?hd=1)**|no issue yet: 0/6|...|...|5.75/6 (no issue to leave comments)|/6
 |**[..](...)**|**Dane**|...|**[link here](...)**|Dane afk: 0/6|...|...|waiting for video link|/6
-|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7)**|**Nicholas**|Individual Final video recording|**[link here](https://drive.google.com/file/d/1-SYaT5QBrollYAJ8eYhuzsLZcZXlgUZ0/view)**|5.75/6: good explanation of CB and code crossover|...|...|N/a|/6
+|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7)**|**Nicholas**|Individual Final video recording|**[link here](https://drive.google.com/file/d/1-SYaT5QBrollYAJ8eYhuzsLZcZXlgUZ0/view)**|[5.75/6:](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951085434)|...|...|N/a|/6
 
 ## Part 2:
 Live review with Teacher (5 points),
