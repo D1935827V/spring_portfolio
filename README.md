@@ -14,7 +14,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|**Brayden's Peer Reviews**|**Calvin's Peer Reviews**|**Dane's Peer Reviews**|**Nick's Peer Reviews**|**Average Score**
 |:-------:|:--------------:|:----------------------:|:---------------:|:-----------------:|:----------------:|:--------------:|:-------------:|:--:|
-|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6)**|**Brayden**|My 2 things are ASCII art and factorial|**[link here](http://youtu.be/rsLrvbWp1Io?hd=1)**|...|...|...|video is private|/6
+|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6)**|**Brayden**|My 2 things are ASCII art and factorial|**[link here](https://youtu.be/rsLrvbWp1Io)**|...|...|...|...|/6
 |**[...](...)**|**Calvin**|Unit 4 and 10 and Unit 6 and 7|**[link here](http://youtu.be/KKNSt9TRDow?hd=1)**|...|...|...|5.75/6 (no issue to leave comments)|/6
 |**[..](...)**|**Dane**|...|**[link here](...)**|...|...|...|waiting for video link|/6
 |**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7)**|**Nicholas**|Individual Final video recording|**[link here](https://drive.google.com/file/d/1-SYaT5QBrollYAJ8eYhuzsLZcZXlgUZ0/view)**|...|...|...|N/a|/6
