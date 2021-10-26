@@ -28,13 +28,10 @@ public class PalindromeRecursive extends _Palindrome {
     }
 
     public static boolean isPaliRec(String str, int i, int j) {
-        if (i == j) {
-            return true;
-        }
         if ((str.charAt(i)) != (str.charAt(j))) {
             return false;
         }
-        if (i < j + 1) {
+        if (i < j) {
             return isPaliRec(str, i + 1, j - 1);
         }
         return true;
