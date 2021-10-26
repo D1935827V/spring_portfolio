@@ -2,7 +2,6 @@ package com.example.sping_portfolio.Ascii;
 
 public class Drawing {
     /**
-     * Use the Princeton algs4cs Picture library to draw
      * this as an RGB color image
      *
      * @param r A 2D array of the red values between 0 and 0xFF
