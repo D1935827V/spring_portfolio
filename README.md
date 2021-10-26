@@ -14,10 +14,10 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|**Brayden's Peer Reviews**|**Calvin's Peer Reviews**|**Dane's Peer Reviews**|**Nick's Peer Reviews**|**Average Score**
 |:-------:|:--------------:|:----------------------:|:---------------:|:------------------------:|:-----------------------:|:---------------------:|:-------------:|:--:|
-|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6)**|**Brayden**|My 2 things are ASCII art and factorial|**[link here](https://youtu.be/rsLrvbWp1Io)**|N/A|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6#issuecomment-951567891)||...|/6
+|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6)**|**Brayden**|My 2 things are ASCII art and factorial|**[link here](https://youtu.be/rsLrvbWp1Io)**|N/A|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6#issuecomment-951567891)|...|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6#issuecomment-951626507)|/6
 |**[Issue Here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/8)**|**Calvin**|Unit 4 and 10 and Unit 6 and 7|**[link here](http://youtu.be/KKNSt9TRDow?hd=1)**|...|N/A|...|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/8#issuecomment-951568920)|/6
 |**[..](...)**|**Dane**|...|**[link here](...)**|0/6|0/6|...|waiting for video link|/6
-|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7)**|**Nicholas**|Individual Final video recording|**[link here](https://drive.google.com/file/d/1-SYaT5QBrollYAJ8eYhuzsLZcZXlgUZ0/view)**|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951085434)|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951572462)|...|N/a|/6
+|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7)**|**Nicholas**|Individual Final video recording|**[link here](https://drive.google.com/file/d/1-SYaT5QBrollYAJ8eYhuzsLZcZXlgUZ0/view)**|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951085434)|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951572462)|...|N/A|/6
 
 ## Part 2:
 Live review with Teacher (5 points),
