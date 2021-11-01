@@ -21,7 +21,11 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 Final evaluation criteria
 
 PBL Issues will be evaluated for Points (4 or 5 key Issues)
-Teacher Live Grading throughout week
+Show at least one to two key features that came from a Review
+Remember to present your Project as-if we all discovered it on the Internet.  README should guide.  Purpose, project history, and contributors should be easy to determine.  How to use, run and how to contribute to project would be an expectation. 
+Domain and Runtime shown in demo would be considered a requirement. 
+Create a Poll or some other activity to Wrap Up
+Teacher Live Grading Thu and Fri, presentation to entire class.  Presentation is expected to be about 6 to 8 minutes. 
 
 
 ## Individual Final (Part 1 & 2)
