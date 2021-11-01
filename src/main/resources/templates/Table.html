@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+<style>
+    table {
+        /* cellspacing */
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    th {
+        /* This covers the th elements */
+    }
+    tr {
+        /* This covers the tr elements */
+    }
+    th, td {
+        /* cellpadding */
+        padding: 0;
+    }
+    table.PerformanceTable td.PerformanceCell {
+        width: 75px;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+</head>
+<body>
+<div layout:fragment="content" th:with="bits=${bits}, rand=${rand}" th:remove="tag">
+    <h1 style="color:black;" class="text-center">DNHS Courses</h1>
+    <div style="color:black;" class="row justify-content-md-center">
+
+<form action="/Table">
+    <input type="checkbox" id="CalcAB" name="CalcAB" value=true>
+    <label for="CalcAB">AP Calc AB</label><br>
+
+    <input type="checkbox" id="APBio" name="APBio" value=true>
+    <label for="APBio">AP Bio</label><br>
+
+    <input type="checkbox" id="APUSH" name="APUSH" value=true>
+    <label for="APUSH">APUSH</label><br>
+
+    <input type="checkbox" id="APLIT" name="APLIT" value=true>
+    <label for="APLIT">APLIT</label><br>
+
+    <input type="checkbox" id="APStats" name="APStats" value=true>
+    <label for="APStats">AP Stats</label><br>
+
+    <input type="checkbox" id="APChem" name="APChem" value=true>
+    <label for="APChem">AP Chem</label><br>
+
+    <!--    <input type="checkbox" id="AMLIT" name="AMLIT" value=true>-->
+<!--    <label for="AMLIT">AMLIT</label><br>-->
+
+    <input type="submit" value="Submit"><br>
+    <p th:text="'You are taking ' + ${classes} + ' /15 classes.'"></p>
+    <p th:text="'You have ' + ${over} + ' classes.'"></p>
+</form>
+
+    </div>
+<th:block th:each="schedule: ${schedule}">
+    <div class="row justify-content-md-center">
+        <table class="table">
+            <tr id="table">
+        <td th:text="${schedule[0]}"></td>
+        <td th:text="${schedule[1]}"></td>
+        <td th:text="${schedule[2]}"></td>
+            </tr>
+<!--        <tr><td th:text="${schedule[3]}"></td></tr>-->
+<!--        <tr><td th:text="${schedule[4]}"></td></tr>-->
+
+    </table>
+    </div>
+</th:block>
+</div>
+</div>
+</body>
+</html>
