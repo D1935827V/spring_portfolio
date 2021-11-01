@@ -24,26 +24,19 @@ public class Weather {
         // https://rapidapi.com/spamakashrajtech/api/corona-virus-world-and-india-data/
         //rapidapi setup:
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create("https://corona-virus-world-and-india-data.p.rapidapi.com/api"))
-                .header("x-rapidapi-key", "dec069b877msh0d9d0827664078cp1a18fajsn2afac35ae063")
-                .header("x-rapidapi-host", "corona-virus-world-and-india-data.p.rapidapi.com")
+                .uri(URI.create("https://community-open-weather-map.p.rapidapi.com/weather?q=London%2Cuk&lat=0&lon=0&callback=test&id=2172797&lang=null&units=imperial&mode=xml"))
+                .header("x-rapidapi-host", "community-open-weather-map.p.rapidapi.com")
+                .header("x-rapidapi-key", "90d24f17c2mshe7a5019d169744ep146773jsna039703c4990")
                 .method("GET", HttpRequest.BodyPublishers.noBody())
                 .build();
-        //rapidapi call
         HttpResponse<String> response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
-
-        //alternative #1: convert response.body() to java hash map
-        var map = new ObjectMapper().readValue(response.body(), HashMap.class);
+        System.out.println(response.body());
 
         //alternative #2: convert response.body() to JSON object
         Object obj = new JSONParser().parse(response.body());
         JSONObject jo = (JSONObject) obj;
 
-        //pass stats to view
-        model.addAttribute("map", map);
-        model.addAttribute("jo", jo);
-        model.addAttribute("world_map", map.get("world_total")); //illustrative of map get
-        model.addAttribute("world_jo", jo.get("world_total"));  //illustrative of jo get
+        System.out.print(jo);
 
 
         return "Weather";
