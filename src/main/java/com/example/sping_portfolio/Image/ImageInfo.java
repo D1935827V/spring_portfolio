@@ -96,6 +96,7 @@ public class ImageInfo {
     // base64 conversion, support PNG only
     public String pixels_to_base64(int width, int height, int[] pixels) throws IOException {
         BufferedImage img = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
+
         for(int y=0;y<height;y++) {
             for(int x=0; x<width; x++) {
                 int a,r,g,b;
@@ -119,6 +120,7 @@ public class ImageInfo {
         return ((a&0x0ff)<<24)|((r&0x0ff)<<16)|((g&0x0ff)<<8)|(b&0x0ff);
     }
 
+    
     public String test() {
         try {
             BufferedImage img = ImageIO.read(new URL(this.url));
@@ -169,8 +171,6 @@ public class ImageInfo {
         return "data:image/png;base64," +
                 StringUtils.newStringUtf8(Base64.encodeBase64(data, false));
     }
-
-
 
     public int getScaled_height(int row) {
         return row * this.scale_factor;
