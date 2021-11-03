@@ -2,6 +2,11 @@
 <html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
       layout:decorate="~{layout}" lang="en">
 
+<style>
+    table, th, td {
+        border:1px solid black;
+    }
+</style>
 <head>
     <div layout:fragment="metadata" th:remove="tag">
         <title>About Brayden</title>
@@ -13,38 +18,14 @@
     <div layout:fragment="content" th:remove="tag">
     <div class="contact" style="height: 100vh;">
         <div class="row justify-content-left" style="margin: 2%;">
-            <table>
-                <tr>
-                    <th>Coding</th>
-                    <th>About Me</th>
-                    <th>Knowledge</th>
-                </tr>
-                <tr>
-                    <td><a href="https://github.com/BraydenBasinger">Github Link</a></td>
-                    <td><a href="https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing">Journal Link</a></td>
-                    <td>
-                        <ul>
-                            <li>I do Track and Cross Country</li>
-                            <li>I am a senior at DNHS</li>
-                            <li>I like trolling Dane sometimes</li>
-                        </ul>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <ul>
-                            <li>I am leaning API's and Databases</li>
-                            <li>I am learning how to code in java and html</li>
-                        </ul>
-                    </td>
-                </tr>
-            </table>
+            <h2>Brayden About Me Page</h2>
+            <ul>
+                <li><a href="https://github.com/BraydenBasinger">Github</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing">Comp Sci Journal</a></li>
+            </ul>
         </div>
-        <div class="row justify-content-left" style="margin: 2%;">     
-        </div>
-            <p> <img src="../images/BraydenCarry.jpg" style="width:700px;height:522px"> </p>
+        <p> <img src="../images/WIN_20211103_10_28_46_Pro.jpg" style="width:700px;height:522px" alt="braydenpicture"> </p>
         </div>
     </div>
-</div>
 </body>
 </html>
