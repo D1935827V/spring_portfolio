@@ -3,7 +3,7 @@
 
 * [Take this Survey](https://docs.google.com/forms/d/e/1FAIpQLSf8zVZaRGXhRk3SoC3BWS02qAVGsIzJ00QDdTysuqZ5OCdQPg/viewform?usp=sf_link)
 * [Slideshow Presentation Here](https://docs.google.com/presentation/d/1TRo_pS3AOQLSAQbucsBLup3m_j7gGZtNFN6tZUnHLmQ/edit?usp=sharing)
-* To contribute 
+* [How to Contribute](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/12)
 
 ## Description
 On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's. Our theme is education, as we have surveys about clubs and teachers. We want to have underclassmen have the best highschool experience, so we provide them with teacher/club reviews, and college rankings
