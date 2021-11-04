@@ -44,9 +44,8 @@ public class AsciiArt {
         return GRAYSCALE_CHARS.charAt(i);
     }
 
-
     public static Object main(Picture args) {
-        Picture picture = new Picture("src/main/resources/static/images/clock.png");
+        Picture picture = new Picture("src/main/resources/static/images/dnhsschool.png");
         double[][] image = getGrayscaleArray(picture);
 
         // converts grayscale image 2D array to ascii art
@@ -58,14 +57,15 @@ public class AsciiArt {
         }
         return null;
     }
-    //public static char[][] main(Picture picture) {
-    //        double[][] image = getGrayscaleArray(picture);
-    //        char[][] asciiarray = new char[image.length][image[0].length];
-    //        // converts grayscale image 2D array to ascii art
-    //        for (int row = 0; row < image.length; row++) {
-    //            for (int column = 0; column < image[0].length; column++) {
-    //                asciiarray[row][column] = brightnessToChar(image[row][column]);
-    //            }
-    //        }
-    //        return asciiarray;
 }
+// public static <converts> char[][] main(Picture picture) {
+//       double[][] image = getGrayscaleArray(picture);
+//        char[][] asciiarray = new char[image.length][image[0].length];
+//        converts grayscale image 2D array to ascii art
+//        for (int row = 0; row < image.length; row++) {
+//            for (int column = 0; column < image[0].length; column++) {
+//                asciiarray[row][column] = brightnessToChar(image[row][column]);
+//           }
+//        }
+//        return asciiarray;
+//}}
