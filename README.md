@@ -2,7 +2,7 @@
 ### Calvin Cheah, Nicolas Xue, Brayden Basinger, Dane Vestal
 
 ## Description
-On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's. Our theme is education, as we have surveys about clubs and teachers.
+On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's. Our theme is education, as we have surveys about clubs and teachers. We want to have underclassmen have the best highschool experience, so we provide them with teacher/club reviews, and college rankings
 
 ## Purpose
 The goal of our project is to educate underclassmen about teachers and clubs around campus. This is essential because everyone wants to have the best teacher/clubs possible, so by getting input from students who have went throught that process, the underclassmen are able to make an educated decision about their classes/clubs.
