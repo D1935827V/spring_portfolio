@@ -1,7 +1,6 @@
-# USING A NEW REPO https://github.com/BraydenBasinger/Calvin_The_Carry
+# Description of Project
+On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's. Our theme is education, as we have surveys about clubs and teachers.
 
-
-## N@tM Overview plus Unit 8
 ### Profiles
 **Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
 | :---: | :---: | :--: | :--: | :--: | :--:
@@ -9,13 +8,85 @@
 **Calvin** | QwikSP | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AQwikSP+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Aqwiksp) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=QwikSP) | [Link](https://github.com/QwikSP)
 **Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
+
+## Draft N@tM Final plus Unit 10
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
-|**[Deploy]()**|**Brayden**|I will deploy on my pi this week, as well as help the team with other code|
+|**[here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/10)**|**Brayden**|unit 10 + N@TM draft|
+|**[...](...)**|**Calvin**|...|
+|**[...](...)**|**Dane**|...|
+|**[...](...)**|**Nicolas**|...|
+
+Final evaluation criteria
+
+PBL Issues will be evaluated for Points (4 or 5 key Issues)
+Show at least one to two key features that came from a Review
+Remember to present your Project as-if we all discovered it on the Internet.  README should guide.  Purpose, project history, and contributors should be easy to determine.  How to use, run and how to contribute to project would be an expectation. 
+Domain and Runtime shown in demo would be considered a requirement. 
+Create a Poll or some other activity to Wrap Up
+Teacher Live Grading Thu and Fri, presentation to entire class.  Presentation is expected to be about 6 to 8 minutes. 
+
+### Unit 10 Individual work
+**Name** | **Unit 10 work**
+| :---: | :---:
+**Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.32ev99uo0xty) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.dh6nc6nikpgt)
+**Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
+**Nicholas** | [Notes](https://docs.google.com/document/d/1UV_czraikyLUVZt-85iJkltNf1w6YP2Kx_GnuH8dGek/edit?usp=sharing)
+
+## Individual Final (Part 1 & 2)
+
+### Issues ready for review 
+|**Issue**|**Contributors**|**Description of Issue**|**Link to Video**|**Brayden's Peer Reviews**|**Calvin's Peer Reviews**|**Dane's Peer Reviews**|**Nick's Peer Reviews**|**Average Score**
+|:-------:|:--------------:|:----------------------:|:---------------:|:------------------------:|:-----------------------:|:---------------------:|:-------------:|:--:|
+|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6)**|**Brayden**|My 2 things are ASCII art and factorial|**[link here](https://youtu.be/rsLrvbWp1Io)**|N/A|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6#issuecomment-951567891)|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6#issuecomment-952123655)|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/6#issuecomment-951626507)|5.75/6
+|**[Issue Here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/8)**|**Calvin**|Unit 4 and 10 and Unit 6 and 7|**[link here](http://youtu.be/KKNSt9TRDow?hd=1)**|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/8#issuecomment-952154522)|N/A|[6/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/8#issuecomment-952120502)|[6/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/8#issuecomment-951568920)|/6
+|**[Issue Here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/9)**|**Dane**|Individual Final Video Recording|**[link here](https://drive.google.com/file/d/148gKRceZXrg8Xd7gKZhhjPhVOLM9mvZh/view?usp=sharing)**|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/9#issuecomment-952156101)|0/6|...|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/9#issuecomment-952164700)|/6
+|**[Issue here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7)**|**Nicholas**|Individual Final video recording|**[link here](https://drive.google.com/file/d/1-SYaT5QBrollYAJ8eYhuzsLZcZXlgUZ0/view)**|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951085434)|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-951572462)|[5.75/6](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/7#issuecomment-952116079)|N/A|5.75/6
+
+## Part 2:
+Live review with Teacher (5 points),
+
+2 points on live review topic.   
+1 point on my assessment of overall quality and participation in Individual Final, Part 1 & 2.  
+2 points Unit 9 completed and journal review.
+
+## Part 1:
+
+Show key observation or things you have implemented that are related to College Board topics (Java).  Be precise in showing relationships between work and Java unit.
+
+Unit 4 and 10, loops and recursion with the key interests being algorithms and analysis
+Unit 5 and 9, focus should be on Model and building complex data relationships through modeling, this can include Databases
+Unit 6 and 7, structure that is managing many objects in a solution and using those relationships in View and Control
+Unit 8 an applications for 2D models and using these types of models in a grid or table
+Here is an option that is strictly PBL.
+
+Program Design and Purpose (PBL project designs HTML/CSS/Thymeleaf, Deployment, Database/POJO be sure to cover the "Why" behind project and purpose of your code)
+You will prepare a video between 2:30 to 3:15 minutes.  You will cover 2 topics in video.   Additionally, you will prepare 1 other topic for live review during the following week with Teacher.  A total of 3 topics.
+
+All preparations need to be from your own work.  These will be from CODE and should be supported by Journals, Issues, README, Preso's, etc.  
+
+Grading Plan
+
+Make a link in Time box portion of README that contains a link to an issue/ticket that contains everyones Videos, Scrum team comments and scores.   I think it would be best to have a Table with video and scores by each individual.  Make sure it is intuitive to find videos and see scores, provide an average of the scores.
+
+2 times (3 points per topic, total of 6 points).  On each point.   .25, .50, .75 increments can be used.
+
+1 point.  Looking for a relationship between work presented and College Board or PBL topic.  Make this obvious, share CB number, topic, quiz question(s)!!!  .50 for effort, .75 for CB to PBL relation, 1.0 for CBL to PBL brilliance.
+1 point.  Demonstrating command of Technical Topic through PBL, ie Tour of Code. (.50 PBL topic fuzzy, .75 PBL topic OK, 1.0 PBL topic shows Command)
+1 point.  Making the topic professional, interesting, unique.  (.50 no energy / vibe in presentation, .75 well prepared, conventional 1.0 very well prepared, something unique, WOW
+Each Scrum team member to watch Video grade and comment in ticket/issue 3 positive comments and 1 improvement suggestion (grader receives 2 points for comments, 50% weak comments no tangible references, 75% ok comment with tangible references, 100% value added analysis
+
+## N@tM Overview plus Unit 8
+### [Review Ticket](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/2)
+### Issues ready for review 
+|**Issue**|**Contributors**|**Description of Issue**|
+|:----:|:----:|:----:|
+|**[Deploy & Interactive Map](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/4)**|**Brayden**|I will deploy with Dane on my pi this week, make an interactive map, and help with the ASCII art image lab|
 |**[N@tM project]()**|**Calvin**|Establish Key ideas and work on project|
-|**[tbd]()**|**Dane**|Work on PBL|
-|**[tbd]()**|**Nicholas**|...|
+|**[Deploy](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/5)**|**Dane**|Get VNC setup and deploy|
+|**[Ascii Art Lab](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/1)**|**Nicholas**|Convert an image to grayscale, then use 2D Array to make ASCII Art|
 
 This weeks focus is to dust off and reestablish vision between Scrum Team and class on each Scrum Teams N@tM project.   Remember, the focus of N@tM is to share interesting things you have learned in your 1st Trimester by way of Code that is running on a Deployed Web application.
 
@@ -42,9 +113,9 @@ Scrum Master will highlight best ideas from comments and present final score as 
 **Name** | **Unit 8 work**
 | :---: | :---:
 **Brayden** | [Notes & Test Corrections](https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing)
-**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.g4kn3d3unyow) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.33j0pzbads0y)
+**Calvin** | [Notes](https://docs.google.com/document/d/1n3izOcbP4ylxIFgklC2cnNy1I1l6ASWpEBL8jmTDY5g/edit#heading=h.z6hj7n1ireqm) / [Test Corrections](https://docs.google.com/document/d/1HN4C3lg2ZhEhUhw8biQFuJY0QDNz1AOyUDdoSD6I_d4/edit#heading=h.2tg7gt6oknj2)
 **Dane** | [Notes & Test Corrections](https://docs.google.com/document/d/1PjhsypGWwzYzs5u7B6uI55TdWPIBtuQ2HE1IIVbi4F0/edit?usp=sharing) |
-**Nicholas** | [Notes](https://docs.google.com/document/d/16D0eQ_zxz73u0QobHrJQNsrWgb_pMmlYBhrCiXJGyCo/edit?usp=sharing)
+**Nicholas** | [Notes](https://docs.google.com/document/d/1UV_czraikyLUVZt-85iJkltNf1w6YP2Kx_GnuH8dGek/edit?usp=sharing)
 
 ## Modeling Checkpoint plus unit 7
 ### Issues ready for review 
