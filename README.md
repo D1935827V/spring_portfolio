@@ -1,5 +1,16 @@
-# Description of Project
+# THE DEL NORTE REVIEW
+### Calvin Cheah, Nicolas Xue, Brayden Basinger, Dane Vestal
+
+## Description
 On our website, we have a navbar to see all of our minilabs and assignments. We have about me pages, and links to CB FRQ's. Our theme is education, as we have surveys about clubs and teachers.
+
+## Purpose
+The goal of our project is to educate underclassmen about teachers and clubs around campus. This is essential because everyone wants to have the best teacher/clubs possible, so by getting input from students who have went throught that process, the underclassmen are able to make an educated decision about their classes/clubs.
+
+## How to use our Website
+You should take the surveys we have under the reviews navbar. You can review your teachers and clubs you have been in. You can also check out other aspects of our site by opening our minilabs. 
+![howtodelnortereview](https://user-images.githubusercontent.com/70920675/140384554-bf59b433-9583-46b1-8c8f-c188c6f21061.png)
+
 
 ### Profiles
 **Name** | **Github ID** | **Tasks** | **Scrum Board** | **Commits** | **Profile**
