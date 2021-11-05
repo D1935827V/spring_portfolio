@@ -37,7 +37,7 @@ You should take the surveys we have under the reviews navbar. You can review you
 |:----:|:----:|:----:|
 |**[here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/10)**|**Brayden**|unit 10 + N@TM draft|
 |**[here](https://github.com/D1935827V/spring_portfolio/issues/47)**|**Calvin**|Improve ascetics and clean up website features|
-|**[...](...)**|**Dane**|...|
+|**[database](https://github.com/D1935827V/spring_portfolio/issues/48)**|**Dane**|survey responses now stored in database|
 |**[...](...)**|**Nicolas**|...|
 
 Final evaluation criteria
