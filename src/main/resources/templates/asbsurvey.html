@@ -1,42 +1,33 @@
 <!DOCTYPE HTML>
-<!-- This is how HTML comments look like -->
 <html>
-<!-- the title will appear on the page-->
 <head>
     <title>Rate Clubs</title>
 </head>
 <body>
-<!-- as it is a survey form, we will need to submit the details, hence we use form -->
-<!-- We can give absolute url, or relative url like /nextpage.jsp, and specify POST or GET method -->
+>
 <form action="http://google.co.in">
-    <!-- If we remove this, every thing will move to the left of the page-->
+
     <div align="center">
-        <!--Adds a heading to the form-->
+
         <h1>Rating Clubs</h1>
         Enter the club name:
-        <!-- Input type text for small texts, specify size -->
         <input type="text" name="UserName" size=35 maxlength=35 value="">
-        <!--Adds spaces - remove and see what happens -->
         </br></br>
         Tell us a little about them:
-        <!-- For writing lot of text like descriptions with text wrapping,
         if you dont want text wrapping, you can add wrap = "off" (horizontal scrollbar -->
         <textarea name="Comments" cols=30 rows=4></textarea> </br> </br>
         Is it good for college apps?
-        <!-- Radio buttons help you choose one out of the many values -->
         <input type="radio" name="exe" value=1>Yes
         <input type="radio" name="exe" value=2>No
         </p>
         How much time do you spend in it per week?
         <p>
-            <!--Checkbox lets you select multiple options -->
             <input type="checkbox" name="Books">.5 hours
             <input type="checkbox" name="Web">1 hour
             <input type="checkbox" name="Phone">1.5 hours
             <input type="checkbox" name="Magazines">2 hours
         </p>
         </br></br>
-        <!--submits the information entered in the form by the user -->
         <input type=submit value="Submit form">
     </div>
 </form>

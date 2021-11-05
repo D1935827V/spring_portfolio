@@ -2,6 +2,76 @@
 <html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
       layout:decorate="~{layout}" lang="en">
 
+<style>
+    body {
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        align-items: center;
+        height: 100vh;
+        background: black;
+    }
+
+    .scene {
+        width: 300px;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+        -webkit-perspective: 800px;
+        perspective: 800px;
+    }
+    .scene .card {
+        position: relative;
+        width: 240px;
+        height: 300px;
+        color: white;
+        cursor: pointer;
+        -webkit-transition: 1s ease-in-out;
+        transition: 1s ease-in-out;
+        -webkit-transform-style: preserve-3d;
+        transform-style: preserve-3d;
+    }
+    .scene .card:hover {
+        -webkit-transform: rotateY(0.5turn);
+        transform: rotateY(0.5turn);
+    }
+    .scene .card .card__face {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -webkit-transition: 1s ease-in-out;
+        transition: 1s ease-in-out;
+        -webkit-box-reflect: below 0 linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
+    }
+    .scene .card .card__face img {
+        width: 240px;
+        height: 300px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .scene .card .card__face--back {
+        -webkit-transform: rotateY(0.5turn);
+        transform: rotateY(0.5turn);
+    }
+</style>
+
+<div class="scene">
+    <div class="card">
+        <div class="card__face card__face--front">
+            <img src="../images/WIN_20211103_10_28_46_Pro.jpg" />
+        </div>
+        <div class="card__face card__face--back">
+            <img src="../images/BraydenCarry.jpg" />
+        </div>
+    </div>
+</div>
 <head>
     <div layout:fragment="metadata" th:remove="tag">
         <title>About Brayden</title>
@@ -13,13 +83,16 @@
     <div layout:fragment="content" th:remove="tag">
     <div class="contact" style="height: 100vh;">
         <div class="row justify-content-left" style="margin: 2%;">
-            <ui><a href="https://github.com/BraydenBasinger">My Github</a></ui>
+            <h2>Brayden About Me Page</h2>
+            <ul>
+                <li><a href="https://github.com/BraydenBasinger">Github</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1soj1CwGK5Be7LfZio4-izik9sVKAbU7inG_5DJnedCs/edit?usp=sharing">Comp Sci Journal</a></li>
+            </ul>
         </div>
-        <div class="row justify-content-left" style="margin: 2%;">     
-        </div>
-            <p> <img src="../images/BraydenCarry.jpg" style="width:700px;height:522px"> </p>
+        <p> <img src="../images/WIN_20211103_10_28_46_Pro.jpg" style="width:700px;height:522px" alt="braydenpicture"> </p>
         </div>
     </div>
-</div>
 </body>
 </html>
+
+

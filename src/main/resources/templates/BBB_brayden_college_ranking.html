@@ -3,7 +3,6 @@
 <html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
 layout:decorate="~{layout}" lang="en">
 
-<!-- <head> -->
 <div layout:fragment="metadata" th:remove="tag">
     <title>BBB RapidAPI</title>
     <style>
@@ -18,18 +17,14 @@ layout:decorate="~{layout}" lang="en">
         }
     </style>
 </div>
-
-<!-- <body> -->
 <div layout:fragment="content" th:remove="tag">
     <div class="container">
-
         <div class="row justify-content-md-center">
             <h1><strong>college ranking API</strong></h1>
             <form action="/BBB_brayden_college_ranking" method="GET" id="covidForm">
                 <button>Refresh!</button>
             </form>
         </div>
-
         <table class="table">
             <tr>
                 <th>Time</th>
