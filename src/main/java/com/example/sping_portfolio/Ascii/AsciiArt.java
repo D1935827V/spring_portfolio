@@ -46,7 +46,7 @@ public class AsciiArt {
 
 
     public static Object main(Picture args) {
-        Picture picture = new Picture("src/main/resources/static/images/clock.png");
+        Picture picture = new Picture("src/main/resources/static/images/dnhsschool2.png");
         double[][] image = getGrayscaleArray(picture);
 
         // converts grayscale image 2D array to ascii art
