@@ -29,7 +29,7 @@ You should take the surveys we have under the reviews navbar. You can review you
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
 |**[here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/10)**|**Brayden**|unit 10 + N@TM draft|
-|**[...](...)**|**Calvin**|...|
+|**[here](https://github.com/D1935827V/spring_portfolio/issues/47)**|**Calvin**|Improve ascetics and clean up website features|
 |**[...](...)**|**Dane**|...|
 |**[...](...)**|**Nicolas**|...|
 
