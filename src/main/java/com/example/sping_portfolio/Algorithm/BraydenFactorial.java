@@ -1,8 +1,5 @@
 package com.example.sping_portfolio.Algorithm;
-<<<<<<< HEAD:src/main/java/com/example/sping_portfolio/Algorithm/brayden_factorial.java
-=======
 
->>>>>>> e387ec5c4574a890284c1c29614e1465e8a55133:src/main/java/com/example/sping_portfolio/Algorithm/BraydenFactorial.java
 import java.util.Scanner;
 public class BraydenFactorial
 {
