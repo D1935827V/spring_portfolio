@@ -2,7 +2,6 @@
 ### Calvin Cheah, Nicolas Xue, Brayden Basinger, Dane Vestal
 
 * [Take this Survey](https://docs.google.com/forms/d/e/1FAIpQLSf8zVZaRGXhRk3SoC3BWS02qAVGsIzJ00QDdTysuqZ5OCdQPg/viewform?usp=sf_link)
-* [Slideshow Presentation Here](https://docs.google.com/presentation/d/1TRo_pS3AOQLSAQbucsBLup3m_j7gGZtNFN6tZUnHLmQ/edit?usp=sharing)
 * [How to Contribute](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/12)
 
 ## Description
