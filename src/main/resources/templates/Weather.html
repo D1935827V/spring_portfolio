@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<!-- <head> -->
+<div layout:fragment="metadata" th:remove="tag">
+    <title>Covid-19 RapidAPI</title>
+    <style>
+        table, td, th {
+            border: 1px solid white;
+        }
+        td, th {
+            text-align:right;
+        }
+        td:first-child, th:first-child {
+            text-align: left;
+        }
+    </style>
+</div>
+
+</html>

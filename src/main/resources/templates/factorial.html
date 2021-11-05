@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<head><div layout:fragment="metadata" th:remove="tag">
+    <title>Brayden Factorial</title>
+</div></head>
+
+<body><div layout:fragment="content" th:remove="tag">
+    <div id="spring_intro" class="articles" style="margin: 30px; background-color: red; width: 1000px; border: 15px solid darkblue; padding: 50px; text-align: center;">
+        <h1 style="font-size: 50px">Brayden Factorial Using Abstract Classes</h1>
+        <div>
+            <h1 style="color: lightblue">Factorial of 6 with FOR LOOP = <span th:text="${forAnswer}">1</span></h1>
+        </div>
+        <div>
+            <h1 style="color: yellow">Factorial of 3 with WHILE LOOP =  <span th:text="${whileAnswer}">1</span></h1>
+        </div>
+        <div>
+            <h1 style="color: black">Factorial of 9 with RECURSION =  <span th:text="${recurseAnswer}">1</span></h1>
+        </div>
+    </div>
+
+</div></body>
+
+</html>

@@ -15,9 +15,10 @@
 
   <div class="container">
     <h1 class="text-center">Grayscale Images</h1>
-    <p><a href="/MiniLab5/MiniLab5">Back</a></p>
-    <img th:src="${str0}">
-
+    <p><a href="/MiniLab5">Back</a></p>
+    <div th:each="ii: ${lii}">
+    <img th:src="${ii.grayscale()}">
+    </div>
 
 
 

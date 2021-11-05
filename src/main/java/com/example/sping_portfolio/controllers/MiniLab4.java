@@ -26,6 +26,11 @@ public class MiniLab4 {
         int recursive_geometric = recursive.sum(number);
         int for_geometric = For.geometric(number);
 
+        MiniLab6 while_ = new abstract_while();
+        MiniLab6 for_ = new abstract_for();
+        while_.executeAction();
+        for_.executeAction();
+
 
         model.addAttribute("factorial", factorial); // MODEL is passed to html
         model.addAttribute("geometric", geometric); // MODEL is passed to html

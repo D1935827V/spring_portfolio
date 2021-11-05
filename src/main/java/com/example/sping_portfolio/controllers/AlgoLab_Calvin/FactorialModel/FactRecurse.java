@@ -20,7 +20,6 @@ public class FactRecurse extends _Factorial {
 
         initRecurse(limit,f);       // recursion is redirected
     }
-
     /*
     Recursive methods contains an escape, in this  "base condition" with a limit
     VERY IMPORTANT... recursion requires pre-decrement, post-decrement will not occur until unstacking

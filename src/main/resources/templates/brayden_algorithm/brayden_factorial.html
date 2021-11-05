@@ -1,15 +1,20 @@
 <!DOCTYPE HTML>
-<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
-      layout:decorate="~{layout}" lang="en">
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml">
 
-<head><div layout:fragment="metadata" th:remove="tag">
-    <title>brayden factorial</title>
-</div>
-</head>
+<!--<head><div layout:fragment="metadata" th:remove="tag">-->
+<!--    <title>brayden factorial</title>-->
+<!--</div>-->
+<!--</head>-->
 
 <body>
-<h1>here is my unit 6</h1>
-
+<h1>Brayden Factorial Calculator</h1>
+<h3>Algorithm Extend Lab plus Unit 6</h3>
+<p th:text="${input}"></p>
+<p th:text="${result}"></p>
+<form action="/braydenlabfactorial" method="GET" >
+    <input name="num" id="num" type="number">
+    <input type ="submit">
+</form>
 </body>
 
 </html>
