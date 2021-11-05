@@ -26,3 +26,5 @@ public class braydenfactorial {
         System.out.println("\nFactorial of " + num + " is: " + fact);  
     }  
 }
+
+// this only runs in the terminal

@@ -1,4 +1,4 @@
-package com.example.sping_portfolio.controllers;
+package com.example.sping_portfolio.Algorithm;
 import java.util.Scanner;
 class BraydenFactorial
 {
