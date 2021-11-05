@@ -45,7 +45,7 @@ public class Person {
     private String teacher_name;
 
     @NonNull
-    @Size(min = 2, max = 30, message = "Name (2 to 30 chars)")
+    @Size(min = 2, max = 1000, message = "Name (2 to 1000 chars)")
     private String rating;
 
 

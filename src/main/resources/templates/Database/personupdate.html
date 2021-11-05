@@ -7,12 +7,14 @@
 <head><div layout:fragment="metadata" th:remove="tag">
   <title>Person Update</title>
 </div></head>
-
+<style>
+  .submissionfield { width: 90px; height: 390px; border: 1px solid #999999; padding: 5px; }
+</style>
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body><div layout:fragment="content" th:remove="tag">
   <div style="margin: 2%;" >
     <div class="row justify-content-md-center">
-      <h3 style="color:Black;">Welcome, update your rating!</h3>
+      <h3 style="color:Black;">Update your rating!</h3>
     </div>
 
     <!-- ThymeLeaf allows person abject of the Class Person to be acted upon by the form
@@ -27,7 +29,7 @@
         https://www.baeldung.com/spring-boot-crud-thymeleaf
      .-->
     <div class="row justify-content-md-center">
-      <form action="#" th:action="@{/Database/personupdate}" th:object="${person}" method="POST">
+      <form action="#" th:action="@{/Database/personupdate}" th:object="${person}" method="POST" class="submissionfield">
         <table style="color:Black;">
           <tr>
             <td>ID:</td>
@@ -47,7 +49,7 @@
           </tr>
           <tr>
             <td>rating:</td>
-            <td><input type="text" th:field="*{rating}" /></td>
+            <td><textarea type="text" th:field="*{rating}" rows="4" cols="50"/></td>
             <td th:if="${#fields.hasErrors('rating')}" th:errors="*{rating}">Name Error</td>
           </tr>
           <tr>
