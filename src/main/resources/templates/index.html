@@ -164,6 +164,24 @@
 
 
     }
+    * {
+        box-sizing: border-box;
+    }
+
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    /* Clearfix (clear floats) */
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+
 
     </style>
 </div>
@@ -175,124 +193,64 @@
     <div layout:fragment="content" th:remove="tag">
     <!-- Start of body content specific to page -->
         <div id="spring_intro" class="articles" style="margin: 30px;">
+
             <div class="container">
                 <img src="../images/IMGZ/DelNorte.jpg" alt="working" class="responsive">
                 <div class="centered"><p style="color:White;"><strong>THE DEL NORTE REVIEW</strong></p>
                 </div>
             </div>
 
-            <h3>    </h3>
-           <h3 style="color:black;"><strong>
-               What is The Del Norte Review?</strong></h3>
-            <ol style="color:black;">
-               CTC is a student lead group attempting to create a program that allows people to review classes at Del Norte
-            </ol>
+            <div class="row justify-content-md-center">
+                <h3>|</h3>
+            </div>
+            <div class="row justify-content-md-center">
+                <h3>|</h3>
+            </div>
+            <div class="row justify-content-md-center">
+                <h3>|</h3>
+            </div>
+            <div class="row justify-content-md-center">
+                <h3>|</h3>
+            </div>
 
-           <h3 style="color:black;"><strong>Taking a deeper dive...</strong></h3>
-            <iframe width="420" height="238" src="https://www.youtube.com/embed/bKQv8Rsse3k">
-            </iframe>
+            <div class="row justify-content-md-center">
+                <br>
+                <h3 style="color:black;"><strong>What is The Del Norte Review?</strong></h3>
+            </div>
+            <div class="row justify-content-md-center">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/pOv0UILhrUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-        </div>
-        <!-- Container for the image gallery -->
-        <div class="container">
-
-            <!-- Full-width images with number text -->
-            <div class="mySlides">
-                <div class="numbertext">1 / 6</div>
-                <img src="../images/IMGZ/Bio.png" style="width:100%">
             </div>
-
-            <div class="mySlides">
-                <div class="numbertext">2 / 6</div>
-                <img src="../images/IMGZ/Chem.Png" style="width:100%">
+            <div class="row justify-content-md-center">
+                <h3>|</h3>
             </div>
-
-            <div class="mySlides">
-                <div class="numbertext">3 / 6</div>
-                <img src="../images/IMGZ/CompSci.jpg" style="width:100%">
+            <div class="row justify-content-md-center">
+                <h3>|</h3>
             </div>
-
-            <div class="mySlides">
-                <div class="numbertext">4 / 6</div>
-                <img src="../images/IMGZ/History.jpg" style="width:100%">
-            </div>
-
-            <div class="mySlides">
-                <div class="numbertext">5 / 6</div>
-                <img src="../images/IMGZ/Math.jpg" style="width:100%">
-            </div>
-
-            <div class="mySlides">
-                <div class="numbertext">6 / 6</div>
-                <img src="../images/IMGZ/Physics.jpg" style="width:100%">
-            </div>
-
-            <!-- Next and previous buttons -->
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-            <!-- Image text -->
-            <div class="caption-container">
-                <p id="caption"></p>
-            </div>
-
-            <!-- Thumbnail images -->
             <div class="row">
                 <div class="column">
-                    <img class="demo cursor" src="../images/IMGZ/Bio.png" style="width:100%" onclick="currentSlide(1)" alt="Biology ">
+                    <img src="../images/IMGZ/Bio.png" alt="Bio" style="width:100%">
                 </div>
                 <div class="column">
-                    <img class="demo cursor" src="../images/IMGZ/Chem.Png" style="width:100%" onclick="currentSlide(2)" alt="Chemistry">
+                    <img src="../images/IMGZ/Chem.png" alt="Chem" style="width:100%">
                 </div>
                 <div class="column">
-                    <img class="demo cursor" src="../images/IMGZ/Computer Science.jpg" style="width:100%" onclick="currentSlide(3)" alt="Computer Science">
+                    <img src="../images/IMGZ/Computer Science.jpg" alt="Computer Science" style="width:100%">
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <img src="../images/IMGZ/Physics.jpg" alt="Physics" style="width:100%">
                 </div>
                 <div class="column">
-                    <img class="demo cursor" src="../images/IMGZ/History.jpg" style="width:100%" onclick="currentSlide(4)" alt="History">
+                    <img src="../images/IMGZ/History.jpg" alt="History" style="width:100%">
                 </div>
                 <div class="column">
-                    <img class="demo cursor" src="../images/IMGZ/Math.jpg" style="width:100%" onclick="currentSlide(5)" alt="Math">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="../images/IMGZ/Physics.jpg" style="width:100%" onclick="currentSlide(6)" alt="Physics">
+                    <img src="../images/IMGZ/Math.jpg" alt="Math" style="width:100%">
                 </div>
             </div>
         </div>
+        <!-- Container for the image gallery -->
 
-        <script>
-            let slideIndex = 1;
-            showSlides(slideIndex);
-
-            // Next/previous controls
-            function plusSlides(n) {
-                showSlides(slideIndex += n);
-            }
-
-            // Thumbnail image controls
-            function currentSlide(n) {
-                showSlides(slideIndex = n);
-            }
-
-            function showSlides(n) {
-                let i;
-                const slides = document.getElementsByClassName("mySlides");
-                const dots = document.getElementsByClassName("demo");
-                const captionText = document.getElementById("caption");
-                if (n > slides.length) {slideIndex = 1}
-                if (n < 1) {slideIndex = slides.length}
-                for (i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";
-                }
-                for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
-                }
-                slides[slideIndex-1].style.display = "block";
-                dots[slideIndex-1].className += " active";
-                captionText.innerHTML = dots[slideIndex-1].alt;
-            }
-        </script>
     <!-- End of body content specific to page -->
     </div>
 </body>
