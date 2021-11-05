@@ -14,6 +14,12 @@ The goal of our project is to educate underclassmen about teachers and clubs aro
 ## How to use our Website
 You should take the surveys we have under the reviews navbar. You can review your teachers and clubs you have been in. You can also check out other aspects of our site by opening our minilabs. 
 ![howtodelnortereview](https://user-images.githubusercontent.com/70920675/140384554-bf59b433-9583-46b1-8c8f-c188c6f21061.png)
+![image](https://user-images.githubusercontent.com/89477526/140476061-c41c9e4f-0f8b-40b7-9326-735ecaf7387d.png)
+Select your courses
+![image](https://user-images.githubusercontent.com/89477526/140476135-7a4a9641-3991-4b44-a009-c0984d4f14b8.png)
+Easily Keep Track of what slots are left!
+![image](https://user-images.githubusercontent.com/89477526/140476194-320108d0-9d0c-400e-bd04-6b107ed4971e.png)
+
 
 
 ### Profiles
