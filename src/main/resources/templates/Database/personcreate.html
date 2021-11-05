@@ -11,7 +11,7 @@
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body><div layout:fragment="content" th:remove="tag">
     <div style="margin: 2%;">
-        <h3>Welcome, Enter The Persons Details</h3>
+        <h3 style="color:Black;">Rate Your Teacher!</h3>
         <!-- ThymeLeaf allows person abject of the Class Person to be acted upon by the form
          This is known as a “bean-backed form” or "form-backing bean".
             th:object - the backend form object (bean object)
@@ -23,24 +23,24 @@
             th:errors - form input errors added when validation errors occur
          .-->
         <form action="#" th:action="@{/Database/personcreate}" th:object="${person}" method="POST">
-            <table>
-                <tr>
+            <table style="color:Black;">
+                <tr style="color:Black;" class="row justify-content-md-center">
                     <td>Class:</td>
                     <td><input type="text" th:field="*{teacher_class}" /></td>
                     <td th:if="${#fields.hasErrors('teacher_class')}" th:errors="*{teacher_class}">Class Error</td>
                 </tr>
-                <tr>
+                <tr style="color:Black;" class="row justify-content-md-center">
                     <td>Teacher:</td>
                     <td><input type="text" th:field="*{teacher_name}" /></td>
                     <td th:if="${#fields.hasErrors('teacher_name')}" th:errors="*{teacher_name}">Name Error</td>
                 </tr>
-                <tr>
+                <tr style="color:Black;" class="row justify-content-md-center">
                     <td>Rating:</td>
                     <td><input type="text" th:field="*{rating}" /></td>
                     <td th:if="${#fields.hasErrors('rating')}" th:errors="*{rating}">Rating Error</td>
 
                 </tr>
-                <tr>
+                <tr class="row justify-content-md-center">
                     <td><button type="submit">Add</button></td>
                 </tr>
             </table>

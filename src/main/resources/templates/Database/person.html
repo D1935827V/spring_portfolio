@@ -5,20 +5,20 @@
       layout:decorate="~{layout}" lang="en">
 
 <head><div layout:fragment="metadata" th:remove="tag">
-    <title>Person List</title>
+    <title>Rate Your Teacher</title>
 </div></head>
 
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body><div layout:fragment="content" th:remove="tag">
-    <div style="margin: 2%;">
+    <div style="margin: 2%;" style="color:Black;">
         <div align="center">
-            <h1>SQL Teacher Rating</h1>
+            <h1 style="color:Black;">Rate your teacher!</h1>
             <a href="/Database/personcreate/">Add Rating</a>
             <br/><br/>
 
             <table border="1" cellpadding="10">
                 <thead>
-                <tr>
+                <tr style="color:Black;">
                     <th>ID</th>
                     <th>Class</th>
                     <th>Teacher</th>
@@ -26,14 +26,14 @@
                     <th>Action</th>
                 </tr>
                 </thead>
-                <tbody>
+                <tbody style="color:Black;">>
                 <tr th:each="person : ${list}">
                     <td th:text="${person.id}">Person ID</td>
                     <td th:text="${person.teacher_class}">Class</td>
                     <td th:text="${person.teacher_name}">Name</td>
                     <td th:text="${person.rating}">Rating</td>
 
-                    <td>
+                    <td style="color:Black;" >
                         <a th:href="@{/Database/personupdate/{id}(id = ${person.id})}">Update</a>
                         <a th:href="@{/Database/persondelete/{id}(id = ${person.id})}">Delete</a>
                     </td>
